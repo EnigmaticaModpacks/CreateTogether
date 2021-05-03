@@ -101,6 +101,6 @@ It's based on [Docker Minecraft Server](https://github.com/itzg/docker-minecraft
 
 ## Links
 
--   [CurseForge](https://www.curseforge.com/minecraft/modpacks/create-together)
+-   [CurseForge](https://www.curseforge.com/minecraft/modpacks/createtogether)
 
 -   [Discord](https://discord.gg/HnWNd7X)

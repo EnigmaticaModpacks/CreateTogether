@@ -27,7 +27,6 @@
 3. Delete the Forge jar and the following folders from the server:
     - configs
     - defaultconfigs
-    - kubejs
     - libraries
     - mods
 4. Upload the Forge jar and the list of folders from the new server folder to your server.

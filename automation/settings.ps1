@@ -16,7 +16,7 @@ $CURSEFORGE_USER = "NillerMedDild"
 # $CURSEFORGE_TOKEN = 
 
 # ProjectID can be found on the modpack's Curseforge Projects page, under "About This Project"
-$CURSEFORGE_PROJECT_ID = 000000
+$CURSEFORGE_PROJECT_ID = 478526
 
 # =====================================================================//
 #  MAIN MODPACK SETTINGS
@@ -88,7 +88,7 @@ $CONFIGS_TO_REMOVE_FROM_CLIENT_FILES = @(
 	"betteradvancements-client.toml",
 	"create-client.toml",
 	"jei-client.toml",
-	"forge-client.toml",
+	"forge-client.toml"
 )
 
 #=====================================================================//

@@ -16,18 +16,6 @@ onEvent('recipes', (event) => {
             results: [
                 {
                     chance: 1.0,
-                    item: 'exnihilosequentia:crushed_netherrack',
-                    count: 1
-                }
-            ],
-            input: {
-                item: 'minecraft:netherrack'
-            }
-        },
-        {
-            results: [
-                {
-                    chance: 1.0,
                     item: 'minecraft:gravel',
                     count: 1
                 }
@@ -53,7 +41,7 @@ onEvent('recipes', (event) => {
     recipes.forEach((recipe) => {
         event.custom({
             type: 'exnihilosequentia:hammer',
-            outputs: recipe.results,
+            results: recipe.results,
             input: recipe.input
         });
     });

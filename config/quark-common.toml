@@ -354,11 +354,11 @@
 	"Pat The Dogs" = true
 	"Enhanced Ladders" = true
 	"Snow Golem Player Heads" = true
-	"Glass Shard" = true
+	"Glass Shard" = false
 	"Campfires Boost Elytra" = true
 
 	[tweaks.sign_editing]
-		"Requires Empty Hand" = false
+		"Requires Empty Hand" = true
 
 	[tweaks.pat_the_dogs]
 		#How many ticks it takes for a dog to want affection after being pet/tamed; leave -1 to disable

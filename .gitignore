@@ -156,4 +156,4 @@ config.json
 # MacOSX
 .DS_Store
 .DS_Store?
-config/forge-client.toml
+biomeidfixer.temp

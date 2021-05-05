@@ -1,0 +1,33 @@
+
+#General settings
+[general]
+	#Use config instead of datapack
+	use_config = true
+
+	#List settings
+	#Syntax: ["modid:block|weight"]
+	#Example: ["minecraft:stone|2","minecraft:dirt|1"]
+	#Forge tags are supported
+	[general.lists]
+		#Basalt gen
+		block_list_basalt = ["minecraft:basalt|1", "minecraft:basalt|1"]
+		#Cobble gen
+		block_list_cobble = ["minecraft:cobblestone|1", "minecraft:cobblestone|1"]
+		#Stone gen
+		block_list_stone = ["minecraft:stone|1", "minecraft:stone|1"]
+
+		#Custom settings
+		[general.lists.custom]
+			#Custom generators
+			#Syntax: [gen]
+			#Gen: [type, block, list]
+			#Type: cobblestone, stone
+			#Block: resource location of the block below the generated block
+			#List: see List settings
+			#Examples:
+			#custom_generators = [
+			#   ["cobblestone", "minecraft:diamond_block", ["minecraft:diamond_block"]],
+			#   ["cobblestone", "minecraft:dirt", ["forge:dirt"]],
+			#   ["cobblestone", "minecraft:white_wool", ["minecraft:wool"]]]
+			custom_generators = [ ["cobblestone", "create:andesite_cobblestone", ["create:andesite_cobblestone"]], ["cobblestone", "create:diorite_cobblestone", ["create:diorite_cobblestone"]], ["cobblestone", "create:granite_cobblestone", ["create:granite_cobblestone"]], ["cobblestone", "quark:cobbedstone", ["quark:cobbedstone"]], ["cobblestone", "create:dark_scoria_cobblestone", ["create:dark_scoria_cobblestone"]], ["cobblestone", "create:scoria_cobblestone", ["create:scoria_cobblestone"]], ["cobblestone", "create:gabbro_cobblestone", ["create:gabbro_cobblestone"]], ["cobblestone", "create:dolomite_cobblestone", ["create:dolomite_cobblestone"]], ["cobblestone", "create:weathered_limestone_cobblestone", ["create:weathered_limestone_cobblestone"]], ["cobblestone", "create:limestone_cobblestone", ["create:limestone_cobblestone"]], ["stone", "minecraft:andesite", ["minecraft:andesite"]], ["stone", "minecraft:diorite", ["minecraft:diorite"]], ["stone", "minecraft:granite", ["minecraft:granite"]], ["stone", "minecraft:red_sandstone", ["minecraft:red_sandstone"]], ["stone", "minecraft:sandstone", ["minecraft:sandstone"]], ["stone", "quark:basalt", ["quark:basalt"]], ["stone", "quark:brimstone", ["quark:brimstone"]], ["stone", "quark:jasper", ["quark:jasper"]],  ["stone", "quark:marble", ["quark:marble"]], ["stone", "quark:permafrost", ["quark:permafrost"]], ["stone", "quark:slate", ["quark:slate"]], ["stone", "create:dark_scoria", ["create:dark_scoria"]], ["stone", "create:scoria", ["create:scoria"]], ["stone", "create:gabbro", ["create:gabbro"]], ["stone", "create:dolomite", ["create:dolomite"]], ["stone", "create:weathered_limestone", ["create:weathered_limestone"]], ["stone", "create:limestone", ["create:limestone"]]]
+

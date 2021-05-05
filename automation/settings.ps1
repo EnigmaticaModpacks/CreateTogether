@@ -29,11 +29,11 @@ $MODPACK_NAME = "CreateTogether"
 $CLIENT_NAME = "CreateTogether"
 
 # Version Of The Modpack
-$MODPACK_VERSION = "1.0.1"
+$MODPACK_VERSION = "1.0.2"
 
 # Last Version Of The Modpack
 # Needed For Changelog Parsing
-$LAST_MODPACK_VERSION = "1.0.0"
+$LAST_MODPACK_VERSION = "1.0.1"
 
 # =====================================================================//
 #  CHANGELOG SETTINGS
@@ -87,8 +87,7 @@ $CONFIGS_TO_REMOVE_FROM_CLIENT_FILES = @(
 	"jei/bookmarks.ini",
 	"betteradvancements-client.toml",
 	"create-client.toml",
-	"jei-client.toml",
-	"forge-client.toml"
+	"jei-client.toml"
 )
 
 #=====================================================================//

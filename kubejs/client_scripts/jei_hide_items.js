@@ -25,4 +25,8 @@ onEvent('jei.hide.items', (event) => {
     ].forEach((color) => {
         event.hide('/refinedstorage:' + color + '\\w/');
     });
+
+    // Hide all mod items except
+
+    //event.hide(/refinedstorage:(?!controller|basic_processor)S+/);
 });

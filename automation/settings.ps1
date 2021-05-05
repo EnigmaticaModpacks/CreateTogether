@@ -87,8 +87,7 @@ $CONFIGS_TO_REMOVE_FROM_CLIENT_FILES = @(
 	"jei/bookmarks.ini",
 	"betteradvancements-client.toml",
 	"create-client.toml",
-	"jei-client.toml",
-	"forge-client.toml"
+	"jei-client.toml"
 )
 
 #=====================================================================//

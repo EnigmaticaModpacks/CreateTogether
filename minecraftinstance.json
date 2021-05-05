@@ -30,8 +30,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-05-05T21:00:23.3860217Z",
-  "playedCount": 9,
+  "lastPlayed": "2021-05-05T21:23:00.2294111Z",
+  "playedCount": 10,
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -47,7 +47,7 @@
   "name": "CreateTogether",
   "cachedScans": [],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2021-05-05T18:01:47.3978148Z",
+  "lastPreviousMatchUpdate": "2021-05-05T21:19:39.4316597Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.16.5",
@@ -2149,6 +2149,97 @@
       "dateInstalled": "2021-05-05T20:47:20.2877421Z",
       "dateUpdated": "2021-05-05T20:47:20.2997614Z",
       "dateLastUpdateAttempted": "2021-05-05T20:47:20.2997614Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 402256,
+      "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
+      "installedFile": {
+        "id": 3147020,
+        "displayName": "cobblegenrandomizer-1.16-5.1.2.jar",
+        "fileName": "cobblegenrandomizer-1.16-5.1.2.jar",
+        "fileDate": "2020-12-23T10:21:11.013Z",
+        "fileLength": 30421,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3147/20/cobblegenrandomizer-1.16-5.1.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 238222,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1816572688,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 1897917322,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 686673141,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 364772005,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 594959543,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3842960783,
+        "gameVersion": [
+          "1.16-Snapshot",
+          "1.16.3",
+          "1.16.1",
+          "1.16",
+          "1.16.5",
+          "Forge",
+          "1.16.4",
+          "1.16.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "cobblegenrandomizer-1.16-5.1.2.jar"
+      },
+      "dateInstalled": "2021-05-05T21:18:40.6692003Z",
+      "dateUpdated": "2021-05-05T21:18:40.791202Z",
+      "dateLastUpdateAttempted": "2021-05-05T21:18:40.791202Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,

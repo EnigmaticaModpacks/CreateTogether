@@ -189,7 +189,7 @@
 #Sieve Configs
 [sieve]
 	#Sieve will get results for all mesh tiers below the one in the sieve (Default: true)
-	flattenSieveRecipes = true
+	flattenSieveRecipes = false
 	#Meshes will have durability and can break. (Default: false)
 	enableMeshDurability = false
 	#Defines the radius that a sieve will attempt to activate other sieves (Default: 2)

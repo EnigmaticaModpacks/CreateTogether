@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-05-03T19:07:05.3808195Z",
+  "lastPlayed": "2021-05-04T18:09:10.2703473Z",
   "playedCount": 5,
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
@@ -41,13 +41,13 @@
   "modpackOverrides": null,
   "isMemoryOverride": false,
   "allocatedMemory": 7008,
-  "guid": "8d3c5eca-bb41-4c64-9731-a9c1e54eddbb",
+  "guid": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
   "gameTypeID": 432,
   "installPath": "C:\\Users\\Niels\\Twitch\\Minecraft\\Instances\\CreateTogether\\",
-  "name": "Createpack",
+  "name": "CreateTogether",
   "cachedScans": [],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2021-05-03T18:36:51.1585939Z",
+  "lastPreviousMatchUpdate": "2021-05-03T19:47:48.6464859Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.16.5",
@@ -68,11 +68,11 @@
     "LastSyncDate": "0001-01-01T00:00:00"
   },
   "preferenceShowAddOnInfo": true,
-  "installDate": "2021-05-02T19:49:56.8240018Z",
+  "installDate": "2021-05-03T19:47:46.6844682Z",
   "installedAddons": [
     {
       "addonID": 223852,
-      "gameInstanceID": "8d3c5eca-bb41-4c64-9731-a9c1e54eddbb",
+      "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
       "installedFile": {
         "id": 3180569,
         "displayName": "StorageDrawers-1.16.3-8.2.2.jar",
@@ -152,7 +152,7 @@
     },
     {
       "addonID": 250363,
-      "gameInstanceID": "8d3c5eca-bb41-4c64-9731-a9c1e54eddbb",
+      "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
       "installedFile": {
         "id": 3128555,
         "displayName": "AutoRegLib-1.6-47.jar",
@@ -226,7 +226,7 @@
     },
     {
       "addonID": 429235,
-      "gameInstanceID": "8d3c5eca-bb41-4c64-9731-a9c1e54eddbb",
+      "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
       "installedFile": {
         "id": 3272785,
         "displayName": "ferritecore-2.0.4-forge.jar",
@@ -340,7 +340,7 @@
     },
     {
       "addonID": 328085,
-      "gameInstanceID": "8d3c5eca-bb41-4c64-9731-a9c1e54eddbb",
+      "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
       "installedFile": {
         "id": 3278516,
         "displayName": "Create 1.16.4+ v0.3.1c",
@@ -450,7 +450,7 @@
     },
     {
       "addonID": 358191,
-      "gameInstanceID": "8d3c5eca-bb41-4c64-9731-a9c1e54eddbb",
+      "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
       "installedFile": {
         "id": 3292171,
         "displayName": "PackMenu-1.16.4-2.4.2.jar",
@@ -534,7 +534,7 @@
     },
     {
       "addonID": 238222,
-      "gameInstanceID": "8d3c5eca-bb41-4c64-9731-a9c1e54eddbb",
+      "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
       "installedFile": {
         "id": 3295418,
         "displayName": "jei-1.16.5-7.6.4.90.jar",
@@ -606,7 +606,7 @@
     },
     {
       "addonID": 243121,
-      "gameInstanceID": "8d3c5eca-bb41-4c64-9731-a9c1e54eddbb",
+      "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
       "installedFile": {
         "id": 3282239,
         "displayName": "Quark-r2.4-311.jar",
@@ -715,7 +715,7 @@
     },
     {
       "addonID": 272515,
-      "gameInstanceID": "8d3c5eca-bb41-4c64-9731-a9c1e54eddbb",
+      "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
       "installedFile": {
         "id": 3218942,
         "displayName": "BetterAdvancements-1.16.5-0.1.0.105",
@@ -787,7 +787,7 @@
     },
     {
       "addonID": 283644,
-      "gameInstanceID": "8d3c5eca-bb41-4c64-9731-a9c1e54eddbb",
+      "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
       "installedFile": {
         "id": 3281276,
         "displayName": "Placebo-1.16.4-4.4.2.jar",
@@ -858,7 +858,7 @@
     },
     {
       "addonID": 381605,
-      "gameInstanceID": "8d3c5eca-bb41-4c64-9731-a9c1e54eddbb",
+      "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
       "installedFile": {
         "id": 3035686,
         "displayName": "DrawersTooltip-1.16.2-2.1.0.jar",
@@ -939,7 +939,7 @@
     },
     {
       "addonID": 298187,
-      "gameInstanceID": "8d3c5eca-bb41-4c64-9731-a9c1e54eddbb",
+      "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
       "installedFile": {
         "id": 3205295,
         "displayName": "buildinggadgets-1.16.5-3.8.0.jar",
@@ -953,10 +953,10 @@
         "alternateFileId": 0,
         "dependencies": [
           {
-            "id": 0,
+            "id": 56916937,
             "addonId": 399757,
             "type": 2,
-            "fileId": 0
+            "fileId": 3205295
           }
         ],
         "isAvailable": true,
@@ -964,37 +964,37 @@
           {
             "foldername": "META-INF",
             "fingerprint": 267054609,
-            "type": 0,
+            "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
             "fingerprint": 962286206,
-            "type": 0,
+            "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "data",
             "fingerprint": 597267807,
-            "type": 0,
+            "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "buildinggadgets_logo.png",
             "fingerprint": 2374162731,
-            "type": 0,
+            "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
             "fingerprint": 3840510572,
-            "type": 0,
+            "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "pack.mcmeta",
             "fingerprint": 3547210442,
-            "type": 0,
+            "type": 3,
             "invalidFingerprint": false
           }
         ],
@@ -1002,20 +1002,32 @@
         "gameVersion": [
           "1.16.5"
         ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000016.0000000005",
+            "gameVersion": "1.16.5",
+            "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+            "gameVersionName": "1.16.5"
+          }
+        ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2173986,
+        "projectId": 298187,
+        "packageFingerprintId": 606375272,
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
+        "gameVersionMappingId": 2725255,
+        "gameVersionId": 4458,
+        "gameId": 432,
         "isServerPack": false,
         "FileNameOnDisk": "buildinggadgets-1.16.5-3.8.0.jar"
       },
-      "dateInstalled": "2021-05-03T18:49:33.2152101Z",
-      "dateUpdated": "2021-05-03T18:49:33.226206Z",
-      "dateLastUpdateAttempted": "2021-05-03T18:49:33.226206Z",
+      "dateInstalled": "2021-05-03T19:47:48.8384667Z",
+      "dateUpdated": "2021-05-03T19:47:48.8384667Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -1025,11 +1037,11 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 399558,
-      "gameInstanceID": "8d3c5eca-bb41-4c64-9731-a9c1e54eddbb",
+      "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
       "installedFile": {
         "id": 3285196,
         "displayName": "constructionwand-1.16.5-2.2.jar",
@@ -1116,7 +1128,7 @@
     },
     {
       "addonID": 366140,
-      "gameInstanceID": "8d3c5eca-bb41-4c64-9731-a9c1e54eddbb",
+      "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
       "installedFile": {
         "id": 3217166,
         "displayName": "dynviewdist-1.9.jar",

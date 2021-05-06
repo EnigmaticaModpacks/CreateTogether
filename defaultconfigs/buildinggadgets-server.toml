@@ -25,7 +25,7 @@
 	[Gadgets."Building Gadget"]
 		#The max energy of the Gadget, set to 0 to disable energy usage
 		#Range: > 0
-		"Maximum Energy" = 500000
+		"Maximum Energy" = 0
 		#The Gadget's Energy cost per Operation
 		#Range: > 0
 		"Energy Cost" = 50

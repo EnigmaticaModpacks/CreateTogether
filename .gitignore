@@ -158,3 +158,4 @@ config.json
 .DS_Store?
 biomeidfixer.temp
 config/PregenConfig.toml
+NewWorldBiomeIdFixer.json

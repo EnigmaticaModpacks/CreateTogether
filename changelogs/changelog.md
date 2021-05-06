@@ -1,3 +1,24 @@
+### Create Together v1.0.3
+
+_Using Forge-1.16.5-36.1.16_ | _[Mod Updates](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/changelog_mods_1.0.3.md)_ | _[Modlist](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/modlist_1.0.3.md)_ 
+
+
+
+**New Mods!**
+
+- [Chunk-Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator)
+
+**Changes**
+
+- Hidden most unobtainable items and blocks.
+- RefinedStorage: Re-made the available recipes
+
+**Bug Fixes**
+
+- Building Gadgets no longer require power
+
+
+
 ### Create Together v1.0.2
 
 _Using Forge-1.16.5-36.1.16_ | _[Mod Updates](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/changelog_mods_1.0.2.md)_ | _[Modlist](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/modlist_1.0.2.md)_ 

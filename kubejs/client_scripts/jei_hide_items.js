@@ -1,11 +1,17 @@
 onEvent('jei.hide.items', (event) => {
-    const items = [/quark:limestone/, /quark:\w+_limestone/, /refinedstorage/];
+    const items = [
+        /quark:limestone/,
+        /quark:\w+_limestone/,
+        /refinedstorage:(?!controller|cable|crafting_grid|external_storage)\w+/,
+        /exnihilosequentia:(?!hammer|sieve|mesh)\w+/,
+        /quark:\w+_shard/
+    ];
 
     items.forEach((item) => {
         event.hide(item);
     });
 
-    const colors = [
+    [
         'cyan',
         'purple',
         'blue',
@@ -25,8 +31,4 @@ onEvent('jei.hide.items', (event) => {
     ].forEach((color) => {
         event.hide('/refinedstorage:' + color + '\\w/');
     });
-
-    // Hide all mod items except
-
-    //event.hide(/refinedstorage:(?!controller|basic_processor)S+/);
 });

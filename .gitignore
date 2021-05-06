@@ -157,3 +157,4 @@ config.json
 .DS_Store
 .DS_Store?
 biomeidfixer.temp
+config/PregenConfig.toml

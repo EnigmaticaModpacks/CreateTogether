@@ -1,7 +1,7 @@
 onEvent('recipes', (event) => {
     const removals = [
         {
-            mod: 'refinedstorage'
+            id: /refinedstorage:(?!controller|cable|crafting_grid|external_storage|quartz_enriched_iron|quartz_enriched_iron_block)\w+/
         },
         {
             type: 'exnihilosequentia:compost'

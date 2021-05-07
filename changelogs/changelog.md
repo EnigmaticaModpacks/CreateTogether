@@ -10,7 +10,8 @@ _Using Forge-1.16.5-36.1.16_ | _[Mod Updates](https://github.com/NillerMedDild/C
 
 -   Ultimine/Veinminer: Decreased amount of blocks you can veinmine at a time to 64 from 125
 -   All generatable stones can now be made with both cobble and regular stone-generation methods.
--   Added more Andesite to worldgen
+-   Worldgen: Andesite, Granite and Diorite now spawn as in vanilla.
+-   Quark: Disabled Huge Stone Clusters
 -   String Mesh recipe changed to 3x3 sticks, changed name to Wooden Mesh
 
 **Bug Fixes**

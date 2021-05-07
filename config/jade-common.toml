@@ -4,12 +4,12 @@
 	sneakShowAmount = 54
 	#Range: 0 ~ 54
 	normalShowAmount = 0
+	bypassLockedContainer = false
+	blacklist = ["refinedstorage:disk_drive"]
 	#Range: 1 ~ 18
 	showItemPreLine = 9
-	blacklist = ["refinedstorage:disk_drive"]
-	bypassLockedContainer = false
 
 [customContainerName]
-	onlyShowVanilla = false
 	blacklist = ["thermal"]
+	onlyShowVanilla = false
 

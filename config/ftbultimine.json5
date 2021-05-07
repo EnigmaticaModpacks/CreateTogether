@@ -2,7 +2,7 @@
 	/* Max amount of blocks that can be ultimined at once
 	   Range: 1 - 32768
 	*/
-	"maxBlocks": 125,
+	"maxBlocks": 64,
 	/* Hunger multiplied for each block mined with ultimine
 	   Range: 0 - 10000
 	*/

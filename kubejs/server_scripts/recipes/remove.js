@@ -29,6 +29,9 @@ onEvent('recipes', (event) => {
         },
         {
             type: 'exnihilosequentia:sieve'
+        },
+        {
+            id: /exnihilosequentia:(?!\w+hammer\w+|\w+sieve|\w+mesh\w+)\w+/
         }
     ];
     removals.forEach((removal) => {

@@ -159,3 +159,5 @@ config.json
 biomeidfixer.temp
 config/PregenConfig.toml
 NewWorldBiomeIdFixer.json
+config/waila/waila.json
+config/waila/waila_plugins.json

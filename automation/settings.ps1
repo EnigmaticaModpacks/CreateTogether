@@ -87,8 +87,9 @@ $CONFIGS_TO_REMOVE_FROM_CLIENT_FILES = @(
 	"jei/bookmarks.ini",
 	"betteradvancements-client.toml",
 	"create-client.toml",
-	"jei-client.toml"
-)
+	"jei-client.toml",
+	"waila\waila_plugins.json",
+	"waila\waila.json")
 
 #=====================================================================//
 #  SERVER FILE SETTINGS

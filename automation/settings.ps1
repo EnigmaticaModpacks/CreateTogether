@@ -29,7 +29,7 @@ $MODPACK_NAME = "CreateTogether"
 $CLIENT_NAME = "CreateTogether"
 
 # Version Of The Modpack
-$MODPACK_VERSION = "1.0.4"
+$MODPACK_VERSION = "1.0.3"
 
 # Last Version Of The Modpack
 # Needed For Changelog Parsing
@@ -74,7 +74,7 @@ $TwitchExportBuilderDLMac = "twitch-export-builder_darwin_amd64"
 $ChangelogGeneratorDL = "ChangelogGenerator-2.0.0-pre10.jar"
 
 # File name of the latest https://github.com/MelanX/ModListCreator/releases
-$ModlistCreatorJar = "ModListCreator-1.2.0.jar"
+$ModlistCreatorJar = "ModListCreator-1.2.1.jar"
 
 #=====================================================================//
 #  CLIENT FILE SETTINGS

@@ -32,6 +32,9 @@ onEvent('recipes', (event) => {
         },
         {
             id: /exnihilosequentia:(?!\w+hammer\w+|\w+sieve|\w+mesh\w+)\w+/
+        },
+        {
+            output: 'exnihilosequentia:mesh_string'
         }
     ];
     removals.forEach((removal) => {

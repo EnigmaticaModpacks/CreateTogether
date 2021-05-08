@@ -68,12 +68,13 @@ onEvent('recipes', (event) => {
             id: 'refinedstorage:crafting_grid/crafting_grid_mirrored'
         },
         {
-            output: 'exnihilosequentia:mesh_string',
-            pattern: ['AAA', 'AAA', 'AAA'],
+            output: 'exnihilosequentia:mesh_flint',
+            pattern: ['AAA', 'ABA', 'AAA'],
             key: {
-                A: '#forge:rods/wooden'
+                A: '#forge:rods/wooden',
+                B: 'minecraft:flint'
             },
-            id: 'exnihilosequentia:ens_mesh_string'
+            id: 'exnihilosequentia:ens_mesh_flint'
         }
     ];
 

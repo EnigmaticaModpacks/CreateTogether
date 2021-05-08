@@ -12,7 +12,8 @@ _Using Forge-1.16.5-36.1.16_ | _[Mod Updates](https://github.com/NillerMedDild/C
 -   All generatable stones can now be made with both cobble and regular stone-generation methods.
 -   Worldgen: Andesite, Granite and Diorite now spawn as in vanilla.
 -   Quark: Disabled Huge Stone Clusters
--   String Mesh recipe changed to 3x3 sticks, changed name to Wooden Mesh
+-   ExNihilo: String Mesh disabled
+-   ExNihilo: Flint Mesh recipe changed to 8 sticks with 1 flint in the middle
 
 **Bug Fixes**
 

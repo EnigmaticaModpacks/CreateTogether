@@ -66,6 +66,15 @@ onEvent('recipes', (event) => {
                 E: 'refinedstorage:cable'
             },
             id: 'refinedstorage:crafting_grid/crafting_grid_mirrored'
+        },
+        {
+            output: 'exnihilosequentia:mesh_flint',
+            pattern: ['AAA', 'ABA', 'AAA'],
+            key: {
+                A: '#forge:rods/wooden',
+                B: 'minecraft:flint'
+            },
+            id: 'exnihilosequentia:ens_mesh_flint'
         }
     ];
 

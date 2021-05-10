@@ -483,7 +483,7 @@
 	"Mega Caves" = true
 	"Realistic World Gen" = true
 	Biotite = true
-	"Big Stone Clusters" = true
+	"Big Stone Clusters" = false
 	"Brimstone Underground Biome" = true
 	"Cave Crystal Underground Biome" = true
 	"Spiral Spires" = true

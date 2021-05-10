@@ -29,11 +29,11 @@ $MODPACK_NAME = "CreateTogether"
 $CLIENT_NAME = "CreateTogether"
 
 # Version Of The Modpack
-$MODPACK_VERSION = "1.0.3"
+$MODPACK_VERSION = "1.0.4"
 
 # Last Version Of The Modpack
 # Needed For Changelog Parsing
-$LAST_MODPACK_VERSION = "1.0.2"
+$LAST_MODPACK_VERSION = "1.0.3"
 
 # =====================================================================//
 #  CHANGELOG SETTINGS
@@ -74,7 +74,7 @@ $TwitchExportBuilderDLMac = "twitch-export-builder_darwin_amd64"
 $ChangelogGeneratorDL = "ChangelogGenerator-2.0.0-pre10.jar"
 
 # File name of the latest https://github.com/MelanX/ModListCreator/releases
-$ModlistCreatorJar = "ModListCreator-1.1.5.jar"
+$ModlistCreatorJar = "ModListCreator-1.2.1.jar"
 
 #=====================================================================//
 #  CLIENT FILE SETTINGS
@@ -87,8 +87,11 @@ $CONFIGS_TO_REMOVE_FROM_CLIENT_FILES = @(
 	"jei/bookmarks.ini",
 	"betteradvancements-client.toml",
 	"create-client.toml",
-	"jei-client.toml"
-)
+	"jei-client.toml",
+	"waila/waila_plugins.json",
+	"waila/waila.json",
+	"theoneprobe-common.toml",
+	"theoneprobe-client.toml")
 
 #=====================================================================//
 #  SERVER FILE SETTINGS

@@ -17,7 +17,8 @@ _Using Forge-1.16.5-36.1.16_ | _[Mod Updates](https://github.com/NillerMedDild/C
 
 **Bug Fixes**
 
--   ExNihiloSequentia: Removed recipes for things that are not supposed to be obtainable, like Dolls.
+-   ExNihilo: Removed recipes for things that are not supposed to be obtainable, like Dolls.
+-   Fixed an issue with biome colors being off... I think.
 
 ### Create Together v1.0.3
 

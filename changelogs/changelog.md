@@ -4,7 +4,9 @@ _Using Forge-1.16.5-36.1.16_ | _[Mod Updates](https://github.com/NillerMedDild/C
 
 **New Mods!**
 
--   a
+-   [Colds: Easy Paxel (Lite) (FORGE)](https://www.curseforge.com/minecraft/mc-mods/colds-easy-paxel-lite)
+-   [Simple Magnets](https://www.curseforge.com/minecraft/mc-mods/simple-magnets)
+-   [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)
 
 **Changes**
 

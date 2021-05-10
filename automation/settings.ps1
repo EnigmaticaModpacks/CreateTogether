@@ -89,7 +89,9 @@ $CONFIGS_TO_REMOVE_FROM_CLIENT_FILES = @(
 	"create-client.toml",
 	"jei-client.toml",
 	"waila/waila_plugins.json",
-	"waila/waila.json")
+	"waila/waila.json",
+	"theoneprobe-common.toml",
+	"theoneprobe-client.toml")
 
 #=====================================================================//
 #  SERVER FILE SETTINGS

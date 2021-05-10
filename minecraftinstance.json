@@ -30,8 +30,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-05-10T17:12:36.5119837Z",
-  "playedCount": 28,
+  "lastPlayed": "2021-05-10T19:24:39.9160265Z",
+  "playedCount": 29,
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -70,126 +70,6 @@
   "preferenceShowAddOnInfo": true,
   "installDate": "2021-05-03T19:47:46.6844682Z",
   "installedAddons": [
-    {
-      "addonID": 422301,
-      "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
-      "installedFile": {
-        "id": 3294628,
-        "displayName": "sophisticatedbackpacks-1.16.4-2.4.0.259.jar",
-        "fileName": "sophisticatedbackpacks-1.16.4-2.4.0.259.jar",
-        "fileDate": "2021-05-01T08:51:21.687Z",
-        "fileLength": 957971,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3294/628/sophisticatedbackpacks-1.16.4-2.4.0.259.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 243121,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 233071,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 309927,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 225643,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 301356,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 238222,
-            "type": 2,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3273652414,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "net",
-            "fingerprint": 2174372540,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 2143264033,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3938013043,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "logo.png",
-            "fingerprint": 3140367848,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 1102936719,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 2465254040,
-        "gameVersion": [
-          "1.16.5"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2021-01-15T14:14:48.91Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "sophisticatedbackpacks-1.16.4-2.4.0.259.jar"
-      },
-      "dateInstalled": "2021-05-09T17:41:43.3238508Z",
-      "dateUpdated": "2021-05-09T17:41:43.3328504Z",
-      "dateLastUpdateAttempted": "2021-05-09T17:41:43.3328504Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
     {
       "addonID": 243076,
       "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
@@ -1613,10 +1493,10 @@
         "isServerPack": false,
         "FileNameOnDisk": "jei-1.16.5-7.6.4.90.jar"
       },
-      "dateInstalled": "2021-05-08T19:44:16.2178104Z",
-      "dateUpdated": "2021-05-08T19:44:16.2298096Z",
-      "dateLastUpdateAttempted": "2021-05-08T19:44:16.2298096Z",
-      "status": 5,
+      "dateInstalled": "2021-05-10T19:24:02.1469865Z",
+      "dateUpdated": "2021-05-10T19:24:02.1569825Z",
+      "dateLastUpdateAttempted": "2021-05-10T19:24:02.1569825Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1625,7 +1505,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": null
+      "installedTargets": []
     },
     {
       "addonID": 298187,
@@ -1898,87 +1778,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 454372,
-      "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
-      "installedFile": {
-        "id": 3300632,
-        "displayName": "supermartijn642corelib-1.0.3-mc1.16.5",
-        "fileName": "supermartijn642corelib-1.0.3-mc1.16.5.jar",
-        "fileDate": "2021-05-06T17:57:23.253Z",
-        "fileLength": 172236,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3300/632/supermartijn642corelib-1.0.3-mc1.16.5.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 99251714,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 589760306,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1282687129,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 2415593438,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "supermartijn642guilib.png",
-            "fingerprint": 1404450715,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 1875170829,
-        "gameVersion": [
-          "1.16.3",
-          "1.16.5",
-          "Forge",
-          "1.16.4",
-          "1.16.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "supermartijn642corelib-1.0.3-mc1.16.5.jar"
-      },
-      "dateInstalled": "2021-05-09T17:41:48.4745077Z",
-      "dateUpdated": "2021-05-09T17:41:48.4894939Z",
-      "dateLastUpdateAttempted": "2021-05-09T17:41:48.4894939Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 243121,
       "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
       "installedFile": {
@@ -2073,10 +1872,91 @@
         "isServerPack": false,
         "FileNameOnDisk": "Quark-r2.4-311.jar"
       },
-      "dateInstalled": "2021-05-02T19:50:34.1656968Z",
-      "dateUpdated": "2021-05-02T19:50:34.1776935Z",
-      "dateLastUpdateAttempted": "2021-05-02T19:50:34.1776935Z",
-      "status": 5,
+      "dateInstalled": "2021-05-10T19:24:12.4096305Z",
+      "dateUpdated": "2021-05-10T19:24:12.4256301Z",
+      "dateLastUpdateAttempted": "2021-05-10T19:24:12.4256301Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 454372,
+      "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
+      "installedFile": {
+        "id": 3300632,
+        "displayName": "supermartijn642corelib-1.0.3-mc1.16.5",
+        "fileName": "supermartijn642corelib-1.0.3-mc1.16.5.jar",
+        "fileDate": "2021-05-06T17:57:23.253Z",
+        "fileLength": 172236,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3300/632/supermartijn642corelib-1.0.3-mc1.16.5.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 99251714,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 589760306,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1282687129,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2415593438,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "supermartijn642guilib.png",
+            "fingerprint": 1404450715,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1875170829,
+        "gameVersion": [
+          "1.16.3",
+          "1.16.5",
+          "Forge",
+          "1.16.4",
+          "1.16.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "supermartijn642corelib-1.0.3-mc1.16.5.jar"
+      },
+      "dateInstalled": "2021-05-09T17:41:48.4745077Z",
+      "dateUpdated": "2021-05-09T17:41:48.4894939Z",
+      "dateLastUpdateAttempted": "2021-05-09T17:41:48.4894939Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2251,10 +2131,10 @@
         "isServerPack": false,
         "FileNameOnDisk": "AutoRegLib-1.6-47.jar"
       },
-      "dateInstalled": "2021-05-02T19:50:33.7174347Z",
-      "dateUpdated": "2021-05-02T19:50:33.7353805Z",
-      "dateLastUpdateAttempted": "2021-05-02T19:50:33.7353805Z",
-      "status": 5,
+      "dateInstalled": "2021-05-10T19:24:11.6569062Z",
+      "dateUpdated": "2021-05-10T19:24:11.669898Z",
+      "dateLastUpdateAttempted": "2021-05-10T19:24:11.669898Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2263,7 +2143,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": null
+      "installedTargets": []
     },
     {
       "addonID": 366140,

@@ -35,6 +35,9 @@ onEvent('recipes', (event) => {
         },
         {
             output: 'exnihilosequentia:mesh_string'
+        },
+        {
+            mod: 'theoneprobe'
         }
     ];
     removals.forEach((removal) => {

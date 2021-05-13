@@ -5,7 +5,8 @@ onEvent('jei.hide.items', (event) => {
         /refinedstorage:(?!controller|cable|crafting_grid|external_storage)\w+/,
         /exnihilosequentia:(?!hammer|sieve|mesh)\w+/,
         /quark:\w+_shard/,
-        'exnihilosequentia:mesh_string'
+        'exnihilosequentia:mesh_string',
+        /theoneprobe:/
     ];
 
     items.forEach((item) => {

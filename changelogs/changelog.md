@@ -1,3 +1,19 @@
+### Create Together v1.0.5
+
+_Using Forge-1.16.5-36.1.16_ | _[Mod Updates](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/changelog_mods_1.0.5.md)_ | _[Modlist](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/modlist_1.0.5.md)_
+
+**Changes**
+
+-   Create: The following blocks are now transparent to fans
+    -   Grates
+    -   Scaffolding
+    -   Chains
+    -   Leaves
+    -   Bars
+-   Create: Refined Storage blocks can no longer be moved by Contraptions
+-   Create: Quark Quilted Wool is now valid as Windmill Sail
+-   TheOneProbe: Removed all items from the mod, as TheOneProbe is on by default anyway.
+
 ### Create Together v1.0.4
 
 _Using Forge-1.16.5-36.1.16_ | _[Mod Updates](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/changelog_mods_1.0.4.md)_ | _[Modlist](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/modlist_1.0.4.md)_

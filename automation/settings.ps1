@@ -29,11 +29,11 @@ $MODPACK_NAME = "CreateTogether"
 $CLIENT_NAME = "CreateTogether"
 
 # Version Of The Modpack
-$MODPACK_VERSION = "1.0.4"
+$MODPACK_VERSION = "1.0.5"
 
 # Last Version Of The Modpack
 # Needed For Changelog Parsing
-$LAST_MODPACK_VERSION = "1.0.3"
+$LAST_MODPACK_VERSION = "1.0.4"
 
 # =====================================================================//
 #  CHANGELOG SETTINGS
@@ -88,8 +88,6 @@ $CONFIGS_TO_REMOVE_FROM_CLIENT_FILES = @(
 	"betteradvancements-client.toml",
 	"create-client.toml",
 	"jei-client.toml",
-	"waila/waila_plugins.json",
-	"waila/waila.json",
 	"theoneprobe-common.toml",
 	"theoneprobe-client.toml")
 

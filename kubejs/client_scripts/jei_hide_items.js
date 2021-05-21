@@ -6,7 +6,8 @@ onEvent('jei.hide.items', (event) => {
         /exnihilosequentia:(?!hammer|sieve|mesh)\w+/,
         /quark:\w+_shard/,
         'exnihilosequentia:mesh_string',
-        /theoneprobe:/
+        /theoneprobe:/,
+        /simplybackpacks:(?!common)\w+/
     ];
 
     items.forEach((item) => {

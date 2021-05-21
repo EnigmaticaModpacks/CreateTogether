@@ -75,6 +75,17 @@ onEvent('recipes', (event) => {
                 B: 'minecraft:flint'
             },
             id: 'exnihilosequentia:ens_mesh_flint'
+        },
+        {
+            output: 'simplybackpacks:commonbackpack',
+            pattern: ['AAA', 'ADA', 'CBC'],
+            key: {
+                A: ['minecraft:white_wool', 'quark:white_quilted_wool'],
+                B: '#forge:chests/wooden',
+                C: '#forge:leather',
+                D: '#forge:string'
+            },
+            id: 'simplybackpacks:commonbackpack'
         }
     ];
 

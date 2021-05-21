@@ -29,11 +29,11 @@ $MODPACK_NAME = "CreateTogether"
 $CLIENT_NAME = "CreateTogether"
 
 # Version Of The Modpack
-$MODPACK_VERSION = "1.0.5"
+$MODPACK_VERSION = "1.0.6"
 
 # Last Version Of The Modpack
 # Needed For Changelog Parsing
-$LAST_MODPACK_VERSION = "1.0.4"
+$LAST_MODPACK_VERSION = "1.0.5"
 
 # =====================================================================//
 #  CHANGELOG SETTINGS
@@ -89,7 +89,8 @@ $CONFIGS_TO_REMOVE_FROM_CLIENT_FILES = @(
 	"create-client.toml",
 	"jei-client.toml",
 	"theoneprobe-common.toml",
-	"theoneprobe-client.toml")
+	"theoneprobe-client.toml",
+	"moreoverlays.toml")
 
 #=====================================================================//
 #  SERVER FILE SETTINGS

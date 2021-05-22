@@ -1,15 +1,34 @@
+### Create Together v1.0.6
+
+_Using Forge-1.16.5-36.1.16_ | _[Mod Updates](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/changelog_mods_1.0.6.md)_ | _[Modlist](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/modlist_1.0.6.md)_
+
+**New Mods**
+
+* [More Overlays Updated](https://www.curseforge.com/minecraft/mc-mods/more-overlays-updated)
+* [Simply Backpacks](https://www.curseforge.com/minecraft/mc-mods/simply-backpacks)
+
+**Changes**
+
+-   SimplyBackpacks: Changed recipe for Common Backpack
+-   SimplyBackpacks: Disabled the non-Common Backpacks
+-   Create Together is verified to work with Java 15, on both server and client.
+
+**Bug Fixes**
+
+- Paxels now break blocks more consistently, especially stone-type blocks.
+
 ### Create Together v1.0.5
 
 _Using Forge-1.16.5-36.1.16_ | _[Mod Updates](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/changelog_mods_1.0.5.md)_ | _[Modlist](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/modlist_1.0.5.md)_
 
 **New Mods**
 
-* [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
-* [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks)
-* [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
-* [FastSuite](https://www.curseforge.com/minecraft/mc-mods/fastsuite)
-* [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
-* [Lazy DataFixerUpper(LazyDFU) [FORGE]](https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge)
+-   [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
+-   [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks)
+-   [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
+-   [FastSuite](https://www.curseforge.com/minecraft/mc-mods/fastsuite)
+-   [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
+-   [Lazy DataFixerUpper(LazyDFU) [FORGE]](https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge)
 
 **Changes**
 

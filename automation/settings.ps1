@@ -90,7 +90,8 @@ $CONFIGS_TO_REMOVE_FROM_CLIENT_FILES = @(
 	"jei-client.toml",
 	"theoneprobe-common.toml",
 	"theoneprobe-client.toml",
-	"moreoverlays.toml")
+	"moreoverlays.toml",
+	"appleskin-client.toml")
 
 #=====================================================================//
 #  SERVER FILE SETTINGS

@@ -166,3 +166,4 @@ config/theoneprobe-common.toml
 config/theoneprobe-client.toml
 automation/ModListCreator-1.2.1.jar
 config/moreoverlays.toml
+config/appleskin-client.toml

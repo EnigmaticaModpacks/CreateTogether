@@ -86,6 +86,28 @@ onEvent('recipes', (event) => {
                 D: '#forge:string'
             },
             id: 'simplybackpacks:commonbackpack'
+        },
+        {
+            output: 'create_stuff_additions:encased_jet_chestplate',
+            pattern: ['010', '303', '676'],
+            key: {
+                0: {
+                    item: 'create:brass_ingot'
+                },
+                1: {
+                    item: 'create:brass_sheet'
+                },
+                3: {
+                    item: 'create:cogwheel'
+                },
+                6: {
+                    item: 'create:encased_fan'
+                },
+                7: {
+                    item: 'create:integrated_circuit'
+                }
+            },
+            id: 'create_stuff_additions:encased_jet_chestplate'
         }
     ];
 

@@ -7,7 +7,8 @@ onEvent('jei.hide.items', (event) => {
         /quark:\w+_shard/,
         'exnihilosequentia:mesh_string',
         /theoneprobe:/,
-        /simplybackpacks:(?!common)\w+/
+        /simplybackpacks:(?!common)\w+/,
+        /create_stuff_additions:(?!encased_jet\w+)\w+/
     ];
 
     items.forEach((item) => {

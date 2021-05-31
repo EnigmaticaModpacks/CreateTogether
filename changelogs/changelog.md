@@ -4,6 +4,8 @@ _Using Forge-1.16.5-36.1.16_ | _[Mod Updates](https://github.com/NillerMedDild/C
 
 **New Mods**
 
+-   [Create Stuff Additions](https://www.curseforge.com/minecraft/mc-mods/create-stuff-additions)
+
 **Changes**
 
 -   Reordered JEI Categories, to make it easier to find the recipes you're looking for.

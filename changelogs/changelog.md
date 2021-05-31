@@ -1,6 +1,6 @@
 ### Create Together v1.0.7
 
-_Using Forge-1.16.5-36.1.16_ | _[Mod Updates](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/changelog_mods_1.0.6.md)_ | _[Modlist](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/modlist_1.0.6.md)_
+_Using Forge-1.16.5-36.1.16_ | _[Mod Updates](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/changelog_mods_1.0.7.md)_ | _[Modlist](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/modlist_1.0.7.md)_
 
 **New Mods**
 
@@ -9,8 +9,10 @@ _Using Forge-1.16.5-36.1.16_ | _[Mod Updates](https://github.com/NillerMedDild/C
 
 **Changes**
 
--   Reordered JEI Categories, to make it easier to find the recipes you're looking for.
--   Switched food tooltips so it now displays saturation too. (Now handled by the mod AppleSkin)
+-   Create Stuff Additions: Removed everything but the Jetpack
+-   Create Stuff Additions: Changed the Jetpack recipe
+-   JEI: Reordered categories, to make it easier to find the recipes you're looking for.
+-   Switched food tooltips so it now displays saturation too. (Now handled by the mod [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin))
 
 ### Create Together v1.0.6
 

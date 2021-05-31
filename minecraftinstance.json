@@ -30,8 +30,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-05-30T17:44:35.3954449Z",
-  "playedCount": 39,
+  "lastPlayed": "2021-05-31T19:24:05.0980054Z",
+  "playedCount": 40,
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -1763,14 +1763,14 @@
       "addonID": 419699,
       "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
       "installedFile": {
-        "id": 3328303,
-        "displayName": "[Forge 1.16.4/5] v1.17.17",
-        "fileName": "architectury-1.17.17-forge.jar",
-        "fileDate": "2021-05-28T15:20:40.5Z",
-        "fileLength": 483690,
+        "id": 3330633,
+        "displayName": "[Forge 1.16.4/5] v1.17.20",
+        "fileName": "architectury-1.17.20-forge.jar",
+        "fileDate": "2021-05-31T11:57:00.18Z",
+        "fileLength": 483925,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3328/303/architectury-1.17.17-forge.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3330/633/architectury-1.17.20-forge.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -1796,7 +1796,7 @@
           },
           {
             "foldername": "architectury.mixins.json",
-            "fingerprint": 4016270553,
+            "fingerprint": 3720654811,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -1814,19 +1814,19 @@
           },
           {
             "foldername": "META-INF",
-            "fingerprint": 3498365396,
+            "fingerprint": 2538375653,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "me",
-            "fingerprint": 1248480492,
+            "fingerprint": 3461784012,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "architectury_inject_architectury_common_fc73701cfa0c455aa6eab516c38988bd",
-            "fingerprint": 2330214985,
+            "foldername": "architectury_inject_architectury_common_9cb7286195b84688b9282b7095db691c",
+            "fingerprint": 3717612928,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -1837,7 +1837,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3965151527,
+        "packageFingerprint": 3236881438,
         "gameVersion": [
           "1.16.5",
           "Forge",
@@ -1852,11 +1852,11 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "architectury-1.17.17-forge.jar"
+        "FileNameOnDisk": "architectury-1.17.20-forge.jar"
       },
       "dateInstalled": "2021-05-05T20:20:23.9686805Z",
-      "dateUpdated": "2021-05-29T19:56:49.9130934Z",
-      "dateLastUpdateAttempted": "2021-05-29T19:56:49.9130934Z",
+      "dateUpdated": "2021-05-31T19:23:54.5007395Z",
+      "dateLastUpdateAttempted": "2021-05-31T19:23:54.5007395Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -2277,7 +2277,7 @@
       "dateInstalled": "2021-05-09T17:41:48.4745077Z",
       "dateUpdated": "2021-05-29T19:56:49.3223502Z",
       "dateLastUpdateAttempted": "2021-05-29T19:56:49.3223502Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3147,7 +3147,7 @@
       "dateInstalled": "2021-05-10T19:24:02.1469865Z",
       "dateUpdated": "2021-05-29T19:56:49.7410937Z",
       "dateLastUpdateAttempted": "2021-05-29T19:56:49.7410937Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3740,7 +3740,7 @@
       "dateInstalled": "2021-05-29T18:00:37.6004545Z",
       "dateUpdated": "2021-05-29T18:00:37.739454Z",
       "dateLastUpdateAttempted": "2021-05-29T18:00:37.739454Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,

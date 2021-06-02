@@ -29,11 +29,11 @@ $MODPACK_NAME = "CreateTogether"
 $CLIENT_NAME = "CreateTogether"
 
 # Version Of The Modpack
-$MODPACK_VERSION = "1.0.7"
+$MODPACK_VERSION = "1.0.8"
 
 # Last Version Of The Modpack
 # Needed For Changelog Parsing
-$LAST_MODPACK_VERSION = "1.0.6"
+$LAST_MODPACK_VERSION = "1.0.7"
 
 # =====================================================================//
 #  CHANGELOG SETTINGS

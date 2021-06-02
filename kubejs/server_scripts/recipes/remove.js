@@ -39,8 +39,7 @@ onEvent('recipes', (event) => {
         {
             mod: 'theoneprobe'
         },
-        { mod: 'simplybackpacks' },
-        { mod: 'create_stuff_additions' }
+        { mod: 'simplybackpacks' }
     ];
     removals.forEach((removal) => {
         event.remove(removal);

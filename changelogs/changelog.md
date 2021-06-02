@@ -1,3 +1,13 @@
+### Create Together v1.0.8
+
+_Using Forge-1.16.5-36.1.16_ | _[Mod Updates](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/changelog_mods_1.0.8.md)_ | _[Modlist](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/modlist_1.0.8.md)_
+
+**Removed Mods**
+
+-   [Create Stuff Additions](https://www.curseforge.com/minecraft/mc-mods/create-stuff-additions)
+    -   Tt was conflicting with Magic Feather, and buggy in general.
+    -   A similar jetpack may be back at a later time, but for the time being we highly recommend using Magic Feather beacon-powered flight instead :D
+
 ### Create Together v1.0.7
 
 _Using Forge-1.16.5-36.1.16_ | _[Mod Updates](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/changelog_mods_1.0.7.md)_ | _[Modlist](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/modlist_1.0.7.md)_

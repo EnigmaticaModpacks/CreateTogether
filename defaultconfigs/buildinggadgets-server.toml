@@ -28,7 +28,7 @@
 		"Maximum Energy" = 0
 		#The Gadget's Energy cost per Operation
 		#Range: > 0
-		"Energy Cost" = 50
+		"Energy Cost" = 0
 		#The Gadget's Max Undo size (Note, the exchanger does not support undo)
 		#Range: 0 ~ 128
 		"Max Undo History Size" = 10
@@ -40,7 +40,7 @@
 		"Maximum Energy" = 0
 		#The Gadget's Energy cost per Operation
 		#Range: > 0
-		"Energy Cost" = 100
+		"Energy Cost" = 0
 		#The Gadget's Max Undo size (Note, the exchanger does not support undo)
 		#Range: 0 ~ 128
 		"Max Undo History Size" = 10
@@ -52,7 +52,7 @@
 		"Maximum Energy" = 0
 		#The Gadget's Energy cost per Operation
 		#Range: > 0
-		"Energy Cost" = 200
+		"Energy Cost" = 0
 		#The Gadget's Max Undo size (Note, the exchanger does not support undo)
 		#Range: 0 ~ 128
 		"Max Undo History Size" = 1
@@ -72,7 +72,7 @@
 		"Maximum Energy" = 0
 		#The Gadget's Energy cost per Operation
 		#Range: > 0
-		"Energy Cost" = 50
+		"Energy Cost" = 0
 		#The Gadget's Max Undo size (Note, the exchanger does not support undo)
 		#Range: 0 ~ 128
 		"Max Undo History Size" = 1

@@ -1,3 +1,12 @@
+### Create Together v1.0.10
+
+_Using Forge-1.16.5-36.1.16_ | _[Mod Updates](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/changelog_mods_1.0.10.md)_ | _[Modlist](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/modlist_1.0.10.md)_
+
+**Bug Fixes**
+
+-   Building Gadgets: The Copy-Paste Gadget now works.
+-   Server Files: Fixed the `start-server.sh` script ([Infinoid](https://github.com/Infinoid))
+
 ### Create Together v1.0.9
 
 _Using Forge-1.16.5-36.1.16_ | _[Mod Updates](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/changelog_mods_1.0.9.md)_ | _[Modlist](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/modlist_1.0.9.md)_

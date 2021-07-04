@@ -3,9 +3,7 @@ onEvent('jei.hide.items', (event) => {
         /quark:limestone/,
         /quark:\w+_limestone/,
         /refinedstorage:(?!controller|cable|crafting_grid|external_storage)\w+/,
-        /exnihilosequentia:(?!hammer|sieve|mesh)\w+/,
         /quark:\w+_shard/,
-        'exnihilosequentia:mesh_string',
         /theoneprobe:/,
         /simplybackpacks:(?!common)\w+/
     ];

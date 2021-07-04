@@ -4,7 +4,9 @@ _Using Forge-1.16.5-36.1.16_ | _[Mod Updates](https://github.com/NillerMedDild/C
 
 **Added Mods**
 
--
+- [Inventory Tweaks Renewed](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-renewed)
+* [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)
+* [RandomPatches (Forge)](https://www.curseforge.com/minecraft/mc-mods/randompatches-forge)
 
 **Improvements/Changes**
 

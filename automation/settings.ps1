@@ -29,11 +29,11 @@ $MODPACK_NAME = "CreateTogether"
 $CLIENT_NAME = "CreateTogether"
 
 # Version Of The Modpack
-$MODPACK_VERSION = "1.0.9"
+$MODPACK_VERSION = "1.1.0"
 
 # Last Version Of The Modpack
 # Needed For Changelog Parsing
-$LAST_MODPACK_VERSION = "1.0.8"
+$LAST_MODPACK_VERSION = "1.0.9"
 
 # =====================================================================//
 #  CHANGELOG SETTINGS
@@ -59,7 +59,7 @@ $CLIENT_CHANGELOG = "The Changelog is currently being written, it should be done
 $GAME_VERSIONS = @(8203)
 
 # Can be "alpha", "beta" or "release"
-$CLIENT_RELEASE_TYPE = "release"
+$CLIENT_RELEASE_TYPE = "beta"
 
 #=====================================================================//
 #  DEPENDENCIES URL
@@ -91,7 +91,9 @@ $CONFIGS_TO_REMOVE_FROM_CLIENT_FILES = @(
 	"theoneprobe-common.toml",
 	"theoneprobe-client.toml",
 	"moreoverlays.toml",
-	"appleskin-client.toml")
+	"appleskin-client.toml",
+	"invtweaks-client.toml",
+	"MouseTweaks.cfg")
 
 #=====================================================================//
 #  SERVER FILE SETTINGS

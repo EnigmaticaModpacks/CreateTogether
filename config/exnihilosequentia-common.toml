@@ -33,7 +33,7 @@
 
 	#Compost Configs
 	[barrel.compost]
-		#Number of seconds to spawn mobs (Default: 10)
+		#Number of seconds to compost (Default: 10)
 		#Range: > 1
 		secondsToCompost = 10
 		#How much solids need to be in barrel before composting starts (Default: 1000)
@@ -190,9 +190,15 @@
 [sieve]
 	#Sieve will get results for all mesh tiers below the one in the sieve (Default: true)
 	flattenSieveRecipes = false
-	#Meshes will have durability and can break. (Default: false)
+	#The number of sieve clicks required to sieve a block. (Default: 10)
+	#Range: 1 ~ 10
+	maxSieveClicks = 10
+	#Meshes will have durability and can break, but don't stack. (Default: false)
 	enableMeshDurability = false
 	#Defines the radius that a sieve will attempt to activate other sieves (Default: 2)
 	#Range: 0 ~ 5
 	sieveRange = 2
+	#Meshes will stack, but don't have durability. (Default: 64)
+	#Range: 1 ~ 64
+	meshStackSize = 64
 

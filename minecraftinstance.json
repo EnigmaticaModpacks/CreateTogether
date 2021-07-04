@@ -30,8 +30,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-07-04T18:23:28.8072505Z",
-  "playedCount": 48,
+  "lastPlayed": "2021-07-04T21:10:02.7243085Z",
+  "playedCount": 52,
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -2952,95 +2952,6 @@
       "dateInstalled": "2021-05-02T19:50:05.5927061Z",
       "dateUpdated": "2021-05-02T19:50:05.6067297Z",
       "dateLastUpdateAttempted": "2021-05-02T19:50:05.6067297Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 400012,
-      "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
-      "installedFile": {
-        "id": 3368257,
-        "displayName": "exnihilosequentia-1.16-20210628182320.jar",
-        "fileName": "exnihilosequentia-1.16-20210628182320.jar",
-        "fileDate": "2021-06-28T23:25:58.537Z",
-        "fileLength": 841004,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3368/257/exnihilosequentia-1.16-20210628182320.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2860660692,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "novamachina",
-            "fingerprint": 982488782,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": ".cache",
-            "fingerprint": 3705238569,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 63951454,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 82966928,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 4089439375,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 2202237413,
-        "gameVersion": [
-          "1.16.3",
-          "1.16.1",
-          "1.16",
-          "1.16.5",
-          "Forge",
-          "1.16.4",
-          "1.16.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "exnihilosequentia-1.16-20210628182320.jar"
-      },
-      "dateInstalled": "2021-05-05T20:20:48.282394Z",
-      "dateUpdated": "2021-06-29T08:36:34.1530574Z",
-      "dateLastUpdateAttempted": "2021-06-29T08:36:34.1530574Z",
       "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,

@@ -1,11 +1,25 @@
-### Create Together v1.0.10
+### Create Together v1.1.0
 
-_Using Forge-1.16.5-36.1.16_ | _[Mod Updates](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/changelog_mods_1.0.10.md)_ | _[Modlist](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/modlist_1.0.10.md)_
+_Using Forge-1.16.5-36.1.16_ | _[Mod Updates](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/changelog_mods_1.1.0.md)_ | _[Modlist](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/modlist_1.1.0.md)_
+
+**Added Mods**
+
+-
+
+**Improvements/Changes**
+
+-   Added the Create Together logo as the taskbar logo
+-   Added Diamond Paxel to Netherite Paxel Smithing recipe ([dethstroek](https://github.com/dethstroek))
 
 **Bug Fixes**
 
 -   Building Gadgets: The Copy-Paste Gadget now works.
 -   Server Files: Fixed the `start-server.sh` script ([Infinoid](https://github.com/Infinoid))
+
+**Removed Mods**
+
+-   ExNihiloSequentia
+    -   No real need for it, Create Mining systems can achieve the same thing.
 
 ### Create Together v1.0.9
 

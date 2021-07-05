@@ -1,12 +1,29 @@
+### Create Together v1.1.1
+
+_Using Forge-1.16.5-36.1.16_ | _[Mod Updates](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/changelog_mods_1.1.1.md)_ | _[Modlist](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/modlist_1.1.1.md)_
+
+**Added Mods**
+
+-   [Enigmatic Graves](https://www.curseforge.com/minecraft/mc-mods/enigmatic-graves)
+
+**Improvements/Changes**
+
+-   Added renewable sources of Zinc and Copper [#24](https://github.com/NillerMedDild/CreateTogether/issues/24)
+
+**Bug Fixes**
+
+-   Removed the mod Soggy's Guns.
+    -   CurseForge decided to include it even though it's for Minecraft 1.7.10. Not sure what that's about :D
+
 ### Create Together v1.1.0
 
 _Using Forge-1.16.5-36.1.16_ | _[Mod Updates](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/changelog_mods_1.1.0.md)_ | _[Modlist](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/modlist_1.1.0.md)_
 
 **Added Mods**
 
-- [Inventory Tweaks Renewed](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-renewed)
-* [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)
-* [RandomPatches (Forge)](https://www.curseforge.com/minecraft/mc-mods/randompatches-forge)
+-   [Inventory Tweaks Renewed](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-renewed)
+-   [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)
+-   [RandomPatches (Forge)](https://www.curseforge.com/minecraft/mc-mods/randompatches-forge)
 
 **Improvements/Changes**
 

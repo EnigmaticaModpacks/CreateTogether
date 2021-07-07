@@ -5,8 +5,8 @@ onEvent('recipes', (event) => {
             input: 'minecraft:andesite'
         },
         {
-            outputs: [Item.of('create:copper_nugget').chance(0.12), Item.of('create:limesand').chance(0.5)],
-            input: 'create:limestone'
+            outputs: [Item.of('create:copper_nugget').chance(0.12), Item.of('minecraft:clay_ball').chance(0.5)],
+            input: 'create:limesand'
         }
     ];
 

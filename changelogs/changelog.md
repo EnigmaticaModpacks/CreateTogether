@@ -1,3 +1,19 @@
+### Create Together v1.1.2
+
+_Using Forge-1.16.5-36.1.16_ | _[Mod Updates](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/changelog_mods_1.1.2.md)_ | _[Modlist](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/modlist_1.1.2.md)_
+
+**Added Mods**
+
+-   [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options)
+-   [FTB Chunks (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge)
+-   [FTB Library (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)
+-   [FTB Teams (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge)
+-   [Login Protection](https://www.curseforge.com/minecraft/mc-mods/login-protection)
+
+**Bug Fixes**
+
+-   Limestone to Copper nugget washing recipe conflicts with Create limestone to weathered limestone recipe [#27](https://github.com/NillerMedDild/CreateTogether/issues/27)
+
 ### Create Together v1.1.1
 
 _Using Forge-1.16.5-36.1.16_ | _[Mod Updates](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/changelog_mods_1.1.1.md)_ | _[Modlist](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/modlist_1.1.1.md)_

@@ -30,8 +30,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-07-08T17:31:14.6610121Z",
-  "playedCount": 59,
+  "lastPlayed": "2021-07-08T17:39:33.8816345Z",
+  "playedCount": 60,
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -1257,6 +1257,83 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 232131,
+      "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
+      "installedFile": {
+        "id": 3330403,
+        "displayName": "DefaultOptions_1.16.5-12.2.1.jar",
+        "fileName": "DefaultOptions_1.16.5-12.2.1.jar",
+        "fileDate": "2021-05-30T11:23:32.24Z",
+        "fileLength": 18700,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3330/403/DefaultOptions_1.16.5-12.2.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3979043063,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 2728460759,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mixins.defaultoptions.json",
+            "fingerprint": 4073960078,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3230626572,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "refmap.defaultoptions.json",
+            "fingerprint": 2474497720,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2945223857,
+        "gameVersion": [
+          "1.16.5"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2021-01-15T14:14:48.91Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "DefaultOptions_1.16.5-12.2.1.jar"
+      },
+      "dateInstalled": "2021-07-08T17:38:57.6906308Z",
+      "dateUpdated": "2021-07-08T17:38:57.8086277Z",
+      "dateLastUpdateAttempted": "2021-07-08T17:38:57.8086277Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 283644,
@@ -3525,10 +3602,10 @@
         "isServerPack": false,
         "FileNameOnDisk": "moreoverlays-1.18.14-mc1.16.5.jar"
       },
-      "dateInstalled": "2021-07-05T19:32:15.7719778Z",
-      "dateUpdated": "2021-07-05T19:32:15.8020866Z",
-      "dateLastUpdateAttempted": "2021-07-05T19:32:15.8020866Z",
-      "status": 5,
+      "dateInstalled": "2021-07-08T17:39:18.50087Z",
+      "dateUpdated": "2021-07-08T17:39:18.5278642Z",
+      "dateLastUpdateAttempted": "2021-07-08T17:39:18.5278642Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3537,7 +3614,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": null
+      "installedTargets": []
     },
     {
       "addonID": 238222,

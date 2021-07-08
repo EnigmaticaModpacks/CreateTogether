@@ -93,7 +93,10 @@ $CONFIGS_TO_REMOVE_FROM_CLIENT_FILES = @(
 	"moreoverlays.toml",
 	"appleskin-client.toml",
 	"invtweaks-client.toml",
-	"MouseTweaks.cfg")
+	"MouseTweaks.cfg",
+	"sidebar_buttons.json")
+
+$FOLDERS_TO_REMOVE_FROM_CLIENT_FILES = @("local/ftbutilities", "local/ftbchunks/data")
 
 #=====================================================================//
 #  SERVER FILE SETTINGS

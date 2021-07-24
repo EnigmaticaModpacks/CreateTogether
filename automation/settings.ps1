@@ -96,7 +96,7 @@ $CONFIGS_TO_REMOVE_FROM_CLIENT_FILES = @(
 	"MouseTweaks.cfg",
 	"sidebar_buttons.json")
 
-$FOLDERS_TO_REMOVE_FROM_CLIENT_FILES = @("local/ftbutilities", "local/ftbchunks/data")
+$FOLDERS_TO_REMOVE_FROM_CLIENT_FILES = @("local/ftbutilities", "local/ftbchunks/data","local/ftbultimate")
 
 #=====================================================================//
 #  SERVER FILE SETTINGS

@@ -170,3 +170,4 @@ config/moreoverlays.toml
 config/appleskin-client.toml
 config/invtweaks-client.toml
 config/sidebar_buttons.json
+local/ftbultimine/client.snbt

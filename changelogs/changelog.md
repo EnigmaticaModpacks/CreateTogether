@@ -1,3 +1,18 @@
+### Create Together v1.1.4
+
+_Using Forge-1.16.5-36.2.0_ | _[Mod Updates](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/changelog_mods_1.1.4.md)_ | _[Modlist](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/modlist_1.1.4.md)_
+
+Now with Create 3.2b!
+
+**Added Mods**
+
+-   [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entity-culling)
+-   [Flywheel](https://www.curseforge.com/minecraft/mc-mods/flywheel)
+
+**Bug Fixes**
+
+-   Fixed Copy Paste Gadget not working [#32](https://github.com/NillerMedDild/CreateTogether/issues/32)
+
 ### Create Together v1.1.3
 
 _Using Forge-1.16.5-36.1.16_ | _[Mod Updates](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/changelog_mods_1.1.3.md)_ | _[Modlist](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/modlist_1.1.3.md)_

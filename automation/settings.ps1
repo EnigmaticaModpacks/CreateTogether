@@ -97,7 +97,7 @@ $CONFIGS_TO_REMOVE_FROM_CLIENT_FILES = @(
 	"sidebar_buttons.json",
 	"entity_culling-client.toml")
 
-$FOLDERS_TO_REMOVE_FROM_CLIENT_FILES = @("local/ftbutilities", "local/ftbchunks/data", "local/ftbultimate")
+$FOLDERS_TO_REMOVE_FROM_CLIENT_FILES = @("local/ftbutilities", "local/ftbchunks/data", "local/ftbultimine")
 
 #=====================================================================//
 #  SERVER FILE SETTINGS

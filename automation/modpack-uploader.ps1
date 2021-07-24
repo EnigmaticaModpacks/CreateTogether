@@ -112,9 +112,12 @@ function Remove-BlacklistedFiles {
                 7z d "$InstanceRoot/$CLIENT_ZIP_NAME.zip" "overrides/config/$config*" | Out-Null
             }
 
+            Write-host "About to remove specified folders from client files"
+            pause
             foreach ($folder in $FOLDERS_TO_REMOVE_FROM_CLIENT_FILES) {
                 Write-Host "Removing folder $folder from client files"
-                7z d "$InstanceRoot/$CLIENT_ZIP_NAME.zip" "overrides/$folder*" -r | Out-Null
+                7z d "$InstanceRoot/$CLIENT_ZIP_NAME.zip" "overrides/$folder*" -r #| Out-Null
+                pause
             } 
 
             # Remove all .bak files

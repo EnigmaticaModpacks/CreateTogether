@@ -29,11 +29,11 @@ $MODPACK_NAME = "CreateTogether"
 $CLIENT_NAME = "CreateTogether"
 
 # Version Of The Modpack
-$MODPACK_VERSION = "1.1.3"
+$MODPACK_VERSION = "1.1.4"
 
 # Last Version Of The Modpack
 # Needed For Changelog Parsing
-$LAST_MODPACK_VERSION = "1.1.2"
+$LAST_MODPACK_VERSION = "1.1.3"
 
 # =====================================================================//
 #  CHANGELOG SETTINGS
@@ -130,7 +130,7 @@ $IsWindows = $true
 
 # Toggle twitch-export-builder (automatic building of the manifest zip) on/off
 # Default: $true
-$ENABLE_CURSE_CLIENT_MODULE = $false
+$ENABLE_CURSE_CLIENT_MODULE = $true
 
 # Toggle the modpack uploader on/off
 # Setting this to $false will also disable the Server File and Changelog Generator Modules.

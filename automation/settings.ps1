@@ -29,11 +29,11 @@ $MODPACK_NAME = "CreateTogether"
 $CLIENT_NAME = "CreateTogether"
 
 # Version Of The Modpack
-$MODPACK_VERSION = "1.1.4"
+$MODPACK_VERSION = "1.1.5"
 
 # Last Version Of The Modpack
 # Needed For Changelog Parsing
-$LAST_MODPACK_VERSION = "1.1.3"
+$LAST_MODPACK_VERSION = "1.1.4"
 
 # =====================================================================//
 #  CHANGELOG SETTINGS
@@ -95,7 +95,8 @@ $CONFIGS_TO_REMOVE_FROM_CLIENT_FILES = @(
 	"invtweaks-client.toml",
 	"MouseTweaks.cfg",
 	"sidebar_buttons.json",
-	"entity_culling-client.toml")
+	"entity_culling-client.toml",
+	"storagedrawers-client.toml")
 
 $FOLDERS_TO_REMOVE_FROM_CLIENT_FILES = @("local/ftbutilities", "local/ftbchunks/data", "local/ftbultimine")
 

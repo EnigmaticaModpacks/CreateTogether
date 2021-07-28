@@ -172,3 +172,4 @@ config/invtweaks-client.toml
 config/sidebar_buttons.json
 local/ftbultimine/client.snbt
 config/entity_culling-client.toml
+config/storagedrawers-client.toml

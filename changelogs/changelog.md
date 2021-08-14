@@ -1,10 +1,19 @@
+### Create Together v1.1.6
+
+_Using Forge-1.16.5-36.2.2_ | _[Mod Updates](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/changelog_mods_1.1.6.md)_ | _[Modlist](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/modlist_1.1.6.md)_
+
+**Bug Fixes**
+
+-   FTBChunks: Fixed waypoints not being disabled, eventhough the minimap is disabled.
+-   Many fixes through mod updates.
+
 ### Create Together v1.1.5
 
 _Using Forge-1.16.5-36.2.0_ | _[Mod Updates](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/changelog_mods_1.1.5.md)_ | _[Modlist](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/modlist_1.1.5.md)_
 
 **Bug Fixes**
 
--   Fixes not being able to use throwables, buckets and more in claimed chunks.
+-   Fixed not being able to use throwables, buckets and more in claimed chunks.
 
 ### Create Together v1.1.4
 

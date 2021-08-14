@@ -14,7 +14,7 @@
 	
 	# Enables creation of death waypoints
 	# Default: true
-	death_waypoints: true
+	death_waypoints: false
 	
 	# Enables debug info
 	# Default: false

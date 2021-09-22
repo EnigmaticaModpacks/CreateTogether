@@ -173,3 +173,5 @@ config/sidebar_buttons.json
 local/ftbultimine/client.snbt
 config/entity_culling-client.toml
 config/storagedrawers-client.toml
+config/roadrunner/common.toml
+config/roadrunner/client.toml

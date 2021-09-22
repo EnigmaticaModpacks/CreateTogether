@@ -30,8 +30,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-08-14T19:57:31.6776422Z",
-  "playedCount": 76,
+  "lastPlayed": "2021-09-22T19:47:21.5421607Z",
+  "playedCount": 78,
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -43,12 +43,12 @@
   "allocatedMemory": 7008,
   "guid": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
   "gameTypeID": 432,
-  "installPath": "C:\\Users\\Niels\\Twitch\\Minecraft\\Instances\\CreateTogether\\",
+  "installPath": "C:\\Users\\Niels\\Curseforge\\Minecraft\\Instances\\CreateTogether\\",
   "name": "CreateTogether",
   "cachedScans": [],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2021-08-14T20:01:17.727026Z",
-  "lastRefreshAttempt": "2021-08-14T22:03:08.2775992+02:00",
+  "lastPreviousMatchUpdate": "2021-09-03T18:30:06.608141Z",
+  "lastRefreshAttempt": "2021-09-03T20:30:15.2696832+02:00",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.16.5",
@@ -318,7 +318,7 @@
       "dateInstalled": "2021-05-05T20:20:26.1077811Z",
       "dateUpdated": "2021-08-14T19:24:38.9710693Z",
       "dateLastUpdateAttempted": "2021-08-14T19:24:38.9710693Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -333,14 +333,14 @@
       "addonID": 429235,
       "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
       "installedFile": {
-        "id": 3358428,
-        "displayName": "ferritecore-2.0.5-forge.jar",
-        "fileName": "ferritecore-2.0.5-forge.jar",
-        "fileDate": "2021-06-20T12:35:15.947Z",
-        "fileLength": 98900,
+        "id": 3435176,
+        "displayName": "ferritecore-2.0.7-forge.jar",
+        "fileName": "ferritecore-2.0.7-forge.jar",
+        "fileDate": "2021-08-23T06:16:38.207Z",
+        "fileLength": 101813,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3358/428/ferritecore-2.0.5-forge.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3435/176/ferritecore-2.0.7-forge.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -348,7 +348,7 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1818801341,
+            "fingerprint": 10563238,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -372,7 +372,7 @@
           },
           {
             "foldername": "ferritecore.blockstatecache.mixin.json",
-            "fingerprint": 1727209124,
+            "fingerprint": 352172374,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -390,7 +390,7 @@
           },
           {
             "foldername": "ferritecore.dedupmultipart.mixin.json",
-            "fingerprint": 179854321,
+            "fingerprint": 4096495031,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -402,7 +402,7 @@
           },
           {
             "foldername": "ferritecore-common-refmap.json",
-            "fingerprint": 1744839825,
+            "fingerprint": 2901900899,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -413,13 +413,19 @@
             "invalidFingerprint": false
           },
           {
+            "foldername": "assets",
+            "fingerprint": 3448462194,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
             "foldername": "malte0811",
-            "fingerprint": 2499703496,
+            "fingerprint": 4102796611,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1345743269,
+        "packageFingerprint": 2655477553,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -433,11 +439,11 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "ferritecore-2.0.5-forge.jar"
+        "FileNameOnDisk": "ferritecore-2.0.7-forge.jar"
       },
       "dateInstalled": "2021-05-02T19:54:09.8427431Z",
-      "dateUpdated": "2021-07-12T18:56:54.2540131Z",
-      "dateLastUpdateAttempted": "2021-07-12T18:56:54.2540131Z",
+      "dateUpdated": "2021-08-26T17:04:50.4573313Z",
+      "dateLastUpdateAttempted": "2021-08-26T17:04:50.4573313Z",
       "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -1013,41 +1019,35 @@
       "addonID": 404465,
       "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
       "installedFile": {
-        "id": 3415091,
-        "displayName": "ftb-library-forge-1605.3.1-build.58.jar",
-        "fileName": "ftb-library-forge-1605.3.1-build.58.jar",
-        "fileDate": "2021-08-06T10:45:25.16Z",
-        "fileLength": 550792,
+        "id": 3456644,
+        "displayName": "ftb-library-forge-1605.3.3-build.71.jar",
+        "fileName": "ftb-library-forge-1605.3.3-build.71.jar",
+        "fileDate": "2021-09-11T17:09:07.67Z",
+        "fileLength": 566625,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3415/91/ftb-library-forge-1605.3.1-build.58.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3456/644/ftb-library-forge-1605.3.3-build.71.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
             "id": 0,
-            "addonId": 419699,
-            "type": 3,
+            "addonId": 238222,
+            "type": 2,
             "fileId": 0
           },
           {
             "id": 0,
-            "addonId": 238222,
-            "type": 2,
+            "addonId": 419699,
+            "type": 3,
             "fileId": 0
           }
         ],
         "isAvailable": true,
         "modules": [
           {
-            "foldername": "ftblibrary-common.mixins.json",
-            "fingerprint": 1836549044,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
             "foldername": "assets",
-            "fingerprint": 1764736169,
+            "fingerprint": 3890636078,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -1058,8 +1058,14 @@
             "invalidFingerprint": false
           },
           {
+            "foldername": "ftblibrary-common.mixins.json",
+            "fingerprint": 2229262088,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
             "foldername": "ftb-library-common-refmap.json",
-            "fingerprint": 874861706,
+            "fingerprint": 2537558737,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -1071,24 +1077,24 @@
           },
           {
             "foldername": "META-INF",
-            "fingerprint": 2501461399,
+            "fingerprint": 3137771856,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "dev",
-            "fingerprint": 2427396534,
+            "fingerprint": 2252479902,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "architectury_inject_FTBLibrary1165_common_6a9ec1f118dd42fc81cfa4c524e35928",
-            "fingerprint": 397395097,
+            "foldername": "architectury_inject_FTBLibrary1165_common_61b0708af0b64cf581b245fc20674613",
+            "fingerprint": 160914710,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1532996338,
+        "packageFingerprint": 799011951,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -1102,11 +1108,11 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "ftb-library-forge-1605.3.1-build.58.jar"
+        "FileNameOnDisk": "ftb-library-forge-1605.3.3-build.71.jar"
       },
       "dateInstalled": "2021-07-07T17:50:01.7841926Z",
-      "dateUpdated": "2021-08-14T19:24:27.9209948Z",
-      "dateLastUpdateAttempted": "2021-08-14T19:24:27.9209948Z",
+      "dateUpdated": "2021-09-22T17:33:42.1061531Z",
+      "dateLastUpdateAttempted": "2021-09-22T17:33:42.1061531Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -1122,14 +1128,14 @@
       "addonID": 486392,
       "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
       "installedFile": {
-        "id": 3419392,
-        "displayName": "flywheel-1.16-0.2.3.jar",
-        "fileName": "flywheel-1.16-0.2.3.jar",
-        "fileDate": "2021-08-08T18:32:59.313Z",
-        "fileLength": 466311,
+        "id": 3459739,
+        "displayName": "flywheel-1.16-0.2.4.jar",
+        "fileName": "flywheel-1.16-0.2.4.jar",
+        "fileDate": "2021-09-14T20:36:33.653Z",
+        "fileLength": 422516,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3419/392/flywheel-1.16-0.2.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3459/739/flywheel-1.16-0.2.4.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -1137,25 +1143,25 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 4189169820,
+            "fingerprint": 3978269137,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 1898681800,
+            "fingerprint": 2754567531,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 186929884,
+            "fingerprint": 91055496,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "flywheel.mixins.json",
-            "fingerprint": 1212185055,
+            "fingerprint": 2357842713,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -1173,12 +1179,12 @@
           },
           {
             "foldername": "flywheel.refmap.json",
-            "fingerprint": 4009066725,
+            "fingerprint": 910748664,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3063944626,
+        "packageFingerprint": 638063654,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -1192,11 +1198,11 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "flywheel-1.16-0.2.3.jar"
+        "FileNameOnDisk": "flywheel-1.16-0.2.4.jar"
       },
       "dateInstalled": "2021-07-12T18:56:55.3265279Z",
-      "dateUpdated": "2021-08-14T19:24:28.9750275Z",
-      "dateLastUpdateAttempted": "2021-08-14T19:24:28.9750275Z",
+      "dateUpdated": "2021-09-22T17:33:45.4801504Z",
+      "dateLastUpdateAttempted": "2021-09-22T17:33:45.4801504Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -1212,14 +1218,14 @@
       "addonID": 267193,
       "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
       "installedFile": {
-        "id": 3419304,
-        "displayName": "Chunk Pregenerator-V1.16-3.1.0",
-        "fileName": "Chunk Pregenerator-V1.16-3.1.0.jar",
-        "fileDate": "2021-08-08T17:18:34.99Z",
-        "fileLength": 441906,
+        "id": 3436684,
+        "displayName": "Chunk Pregenerator-V1.16-3.1.1",
+        "fileName": "Chunk Pregenerator-V1.16-3.1.1.jar",
+        "fileDate": "2021-08-23T17:48:03.24Z",
+        "fileLength": 443474,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3419/304/Chunk Pregenerator-V1.16-3.1.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3436/684/Chunk Pregenerator-V1.16-3.1.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -1227,13 +1233,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2633690101,
+            "fingerprint": 453566642,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "pregenerator",
-            "fingerprint": 1136799674,
+            "fingerprint": 2918504312,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -1244,7 +1250,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 808614623,
+        "packageFingerprint": 4213455804,
         "gameVersion": [
           "1.16.5"
         ],
@@ -1257,12 +1263,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Chunk Pregenerator-V1.16-3.1.0.jar"
+        "FileNameOnDisk": "Chunk Pregenerator-V1.16-3.1.1.jar"
       },
       "dateInstalled": "2021-05-06T18:33:20.8341387Z",
-      "dateUpdated": "2021-08-14T19:24:31.9164276Z",
-      "dateLastUpdateAttempted": "2021-08-14T19:24:31.9164276Z",
-      "status": 4,
+      "dateUpdated": "2021-08-26T17:04:53.6903419Z",
+      "dateLastUpdateAttempted": "2021-08-26T17:04:53.6903419Z",
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1277,14 +1283,14 @@
       "addonID": 404468,
       "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
       "installedFile": {
-        "id": 3409580,
-        "displayName": "ftb-teams-forge-1605.2.1-build.20.jar",
-        "fileName": "ftb-teams-forge-1605.2.1-build.20.jar",
-        "fileDate": "2021-08-02T13:54:35.883Z",
-        "fileLength": 151689,
+        "id": 3460043,
+        "displayName": "ftb-teams-forge-1605.2.2-build.32.jar",
+        "fileName": "ftb-teams-forge-1605.2.2-build.32.jar",
+        "fileDate": "2021-09-15T03:08:57.78Z",
+        "fileLength": 171516,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3409/580/ftb-teams-forge-1605.2.1-build.20.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3460/43/ftb-teams-forge-1605.2.2-build.32.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -1299,7 +1305,7 @@
         "modules": [
           {
             "foldername": "assets",
-            "fingerprint": 917352451,
+            "fingerprint": 3374566488,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -1317,24 +1323,24 @@
           },
           {
             "foldername": "META-INF",
-            "fingerprint": 402082193,
+            "fingerprint": 3241620702,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "dev",
-            "fingerprint": 2534241950,
+            "fingerprint": 1585822448,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "architectury_inject_FTBTeams1165_common_11a5822a9b454c358f6e1cc77d8a4bed",
-            "fingerprint": 965710371,
+            "foldername": "architectury_inject_FTBTeams1165_common_f15106fd8b8b47e9a64feab37898da9e",
+            "fingerprint": 2499899307,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2350296286,
+        "packageFingerprint": 1730578673,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -1348,11 +1354,11 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "ftb-teams-forge-1605.2.1-build.20.jar"
+        "FileNameOnDisk": "ftb-teams-forge-1605.2.2-build.32.jar"
       },
       "dateInstalled": "2021-07-07T17:50:02.0543328Z",
-      "dateUpdated": "2021-08-14T19:24:27.2639713Z",
-      "dateLastUpdateAttempted": "2021-08-14T19:24:27.2639713Z",
+      "dateUpdated": "2021-09-22T17:33:41.5691532Z",
+      "dateLastUpdateAttempted": "2021-09-22T17:33:41.5691532Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -1368,14 +1374,14 @@
       "addonID": 358304,
       "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
       "installedFile": {
-        "id": 3038361,
-        "displayName": "logprot-1.16-1.3.jar",
-        "fileName": "logprot-1.16-1.3.jar",
-        "fileDate": "2020-08-21T09:18:05.503Z",
-        "fileLength": 11788,
+        "id": 3466137,
+        "displayName": "logprot-1.16-1.4.jar",
+        "fileName": "logprot-1.16-1.4.jar",
+        "fileDate": "2021-09-19T18:52:57.91Z",
+        "fileLength": 13106,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3038/361/logprot-1.16-1.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3466/137/logprot-1.16-1.4.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -1383,13 +1389,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2015288261,
+            "fingerprint": 3534896497,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 3650112048,
+            "fingerprint": 3002930837,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -1400,16 +1406,10 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1026959832,
+        "packageFingerprint": 82815321,
         "gameVersion": [
-          "1.16-Snapshot",
-          "1.16.3",
-          "1.16.1",
-          "1.16",
           "1.16.5",
-          "Forge",
-          "1.16.4",
-          "1.16.2"
+          "Forge"
         ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
@@ -1417,15 +1417,15 @@
         "restrictProjectFileAccess": 0,
         "projectStatus": 0,
         "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "logprot-1.16-1.3.jar"
+        "FileNameOnDisk": "logprot-1.16-1.4.jar"
       },
       "dateInstalled": "2021-07-06T19:49:30.432467Z",
-      "dateUpdated": "2021-07-06T19:49:30.5784469Z",
-      "dateLastUpdateAttempted": "2021-07-06T19:49:30.5784469Z",
-      "status": 5,
+      "dateUpdated": "2021-09-22T17:33:39.7841517Z",
+      "dateLastUpdateAttempted": "2021-09-22T17:33:39.7841517Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1517,14 +1517,14 @@
       "addonID": 283644,
       "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
       "installedFile": {
-        "id": 3331459,
-        "displayName": "Placebo-1.16.4-4.5.0.jar",
-        "fileName": "Placebo-1.16.4-4.5.0.jar",
-        "fileDate": "2021-05-31T19:14:25.307Z",
-        "fileLength": 140070,
+        "id": 3437009,
+        "displayName": "Placebo-1.16.5-4.6.0.jar",
+        "fileName": "Placebo-1.16.5-4.6.0.jar",
+        "fileDate": "2021-08-23T22:13:04.22Z",
+        "fileLength": 140163,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3331/459/Placebo-1.16.4-4.5.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3437/9/Placebo-1.16.5-4.6.0.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -1532,13 +1532,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 4081592948,
+            "fingerprint": 2343812143,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "shadows",
-            "fingerprint": 2525824482,
+            "fingerprint": 3944675926,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -1561,10 +1561,10 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 17501126,
+        "packageFingerprint": 1133882761,
         "gameVersion": [
           "1.16.5",
-          "1.16.4"
+          "Forge"
         ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
@@ -1572,14 +1572,14 @@
         "restrictProjectFileAccess": 0,
         "projectStatus": 0,
         "projectId": 0,
-        "gameVersionDateReleased": "2020-11-02T18:40:51.49Z",
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Placebo-1.16.4-4.5.0.jar"
+        "FileNameOnDisk": "Placebo-1.16.5-4.6.0.jar"
       },
       "dateInstalled": "2021-05-02T19:54:29.120258Z",
-      "dateUpdated": "2021-06-02T17:41:07.3572929Z",
-      "dateLastUpdateAttempted": "2021-06-02T17:41:07.3572929Z",
+      "dateUpdated": "2021-08-26T17:04:45.1303295Z",
+      "dateLastUpdateAttempted": "2021-08-26T17:04:45.1303295Z",
       "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -2201,7 +2201,7 @@
       "dateInstalled": "2021-05-05T20:47:20.4047481Z",
       "dateUpdated": "2021-08-14T19:24:27.1579643Z",
       "dateLastUpdateAttempted": "2021-08-14T19:24:27.1579643Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2216,40 +2216,34 @@
       "addonID": 419699,
       "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
       "installedFile": {
-        "id": 3415041,
-        "displayName": "[Forge 1.16.4/5] v1.20.29",
-        "fileName": "architectury-1.20.29-forge.jar",
-        "fileDate": "2021-08-06T09:27:44.44Z",
-        "fileLength": 496046,
+        "id": 3462013,
+        "displayName": "[Forge 1.16.4/5] v1.23.33",
+        "fileName": "architectury-1.23.33-forge.jar",
+        "fileDate": "2021-09-17T14:44:40.27Z",
+        "fileLength": 513560,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3415/41/architectury-1.20.29-forge.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3462/13/architectury-1.23.33-forge.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
-            "foldername": "architectury.accessWidener",
-            "fingerprint": 3532654162,
+            "foldername": "architectury-common.mixins.json",
+            "fingerprint": 1305967297,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "architectury-common.mixins.json",
-            "fingerprint": 4139065438,
+            "foldername": "architectury.accessWidener",
+            "fingerprint": 257494810,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "architectury-common-refmap.json",
-            "fingerprint": 2591852291,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "architectury.mixins.json",
-            "fingerprint": 1554387086,
+            "fingerprint": 1953518274,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -2266,20 +2260,26 @@
             "invalidFingerprint": false
           },
           {
+            "foldername": "architectury.mixins.json",
+            "fingerprint": 1554387086,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
             "foldername": "META-INF",
-            "fingerprint": 1629453446,
+            "fingerprint": 1184458518,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "me",
-            "fingerprint": 502634713,
+            "fingerprint": 187094204,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "architectury_inject_architectury_common_b3e9075e7d454c7cb0a062651991a706_dba331500551f35ed4b39834a24d5321d7b157949b82e3291e8b1ffe3bbf66afarchitectury12029devjar",
-            "fingerprint": 1637236378,
+            "foldername": "architectury_inject_architectury_common_53d158909e4141f29a002e4e846289d1_65633a536525e78795f5d2e868e91d166738c055fb3ad8e01516b6119e872ad6architectury12333devjar",
+            "fingerprint": 2315980521,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -2290,7 +2290,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 392189514,
+        "packageFingerprint": 1955599694,
         "gameVersion": [
           "1.16.5",
           "Forge",
@@ -2305,11 +2305,11 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "architectury-1.20.29-forge.jar"
+        "FileNameOnDisk": "architectury-1.23.33-forge.jar"
       },
       "dateInstalled": "2021-05-05T20:20:23.9686805Z",
-      "dateUpdated": "2021-08-14T19:24:35.7999244Z",
-      "dateLastUpdateAttempted": "2021-08-14T19:24:35.7999244Z",
+      "dateUpdated": "2021-09-22T17:33:45.3891608Z",
+      "dateLastUpdateAttempted": "2021-09-22T17:33:45.3891608Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -2387,7 +2387,7 @@
       "dateInstalled": "2021-05-09T17:41:48.2142912Z",
       "dateUpdated": "2021-08-14T19:24:38.4190686Z",
       "dateLastUpdateAttempted": "2021-08-14T19:24:38.4190686Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2730,7 +2730,7 @@
       "dateInstalled": "2021-05-09T17:41:48.4745077Z",
       "dateUpdated": "2021-08-14T19:24:37.9860877Z",
       "dateLastUpdateAttempted": "2021-08-14T19:24:37.9860877Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2745,14 +2745,14 @@
       "addonID": 314906,
       "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
       "installedFile": {
-        "id": 3409573,
-        "displayName": "ftb-chunks-forge-1605.3.1-build.41.jar",
-        "fileName": "ftb-chunks-forge-1605.3.1-build.41.jar",
-        "fileDate": "2021-08-02T13:51:55.78Z",
-        "fileLength": 711457,
+        "id": 3466965,
+        "displayName": "ftb-chunks-forge-1605.3.2-build.57.jar",
+        "fileName": "ftb-chunks-forge-1605.3.2-build.57.jar",
+        "fileDate": "2021-09-20T17:16:03.327Z",
+        "fileLength": 712556,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3409/573/ftb-chunks-forge-1605.3.1-build.41.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3466/965/ftb-chunks-forge-1605.3.2-build.57.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -2770,28 +2770,34 @@
           },
           {
             "id": 0,
-            "addonId": 314905,
-            "type": 2,
+            "addonId": 419699,
+            "type": 3,
             "fileId": 0
           },
           {
             "id": 0,
-            "addonId": 419699,
-            "type": 3,
+            "addonId": 314905,
+            "type": 2,
             "fileId": 0
           }
         ],
         "isAvailable": true,
         "modules": [
           {
-            "foldername": "data",
-            "fingerprint": 1796985034,
+            "foldername": "ftbchunks-common.mixins.json",
+            "fingerprint": 691596479,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "ftbchunks-common.mixins.json",
-            "fingerprint": 691596479,
+            "foldername": "kubejs.classfilter.txt",
+            "fingerprint": 666273691,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 1796985034,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -2803,13 +2809,7 @@
           },
           {
             "foldername": "assets",
-            "fingerprint": 309134154,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "kubejs.classfilter.txt",
-            "fingerprint": 666273691,
+            "fingerprint": 1623746368,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -2827,24 +2827,24 @@
           },
           {
             "foldername": "META-INF",
-            "fingerprint": 2713439727,
+            "fingerprint": 493506663,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "dev",
-            "fingerprint": 3075929956,
+            "fingerprint": 1612836477,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "architectury_inject_FTBChunks1165_common_81ab6f0139ad43aaa5dc765057d59916",
-            "fingerprint": 2114580136,
+            "foldername": "architectury_inject_FTBChunks1165_common_02791dbdb0a347e69f58669087588986",
+            "fingerprint": 971609713,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2776905832,
+        "packageFingerprint": 1015439143,
         "gameVersion": [
           "1.16.5",
           "Forge"
@@ -2858,11 +2858,11 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "ftb-chunks-forge-1605.3.1-build.41.jar"
+        "FileNameOnDisk": "ftb-chunks-forge-1605.3.2-build.57.jar"
       },
       "dateInstalled": "2021-07-07T17:50:07.9344149Z",
-      "dateUpdated": "2021-08-14T19:24:28.4720306Z",
-      "dateLastUpdateAttempted": "2021-08-14T19:24:28.4720306Z",
+      "dateUpdated": "2021-09-22T17:33:45.3921532Z",
+      "dateLastUpdateAttempted": "2021-09-22T17:33:45.3921532Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -3149,28 +3149,35 @@
       "addonID": 416294,
       "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
       "installedFile": {
-        "id": 3354586,
-        "displayName": "rhino-1605.1.1-build.21.jar",
-        "fileName": "rhino-1605.1.1-build.21.jar",
-        "fileDate": "2021-06-16T23:48:03.76Z",
-        "fileLength": 912230,
+        "id": 3461548,
+        "displayName": "rhino-forge-1605.1.4-build.59.jar",
+        "fileName": "rhino-forge-1605.1.4-build.59.jar",
+        "fileDate": "2021-09-16T22:57:08.3Z",
+        "fileLength": 1004738,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3354/586/rhino-1605.1.1-build.21.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3461/548/rhino-forge-1605.1.4-build.59.jar",
         "isAlternate": false,
         "alternateFileId": 0,
-        "dependencies": [],
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 419699,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
         "isAvailable": true,
         "modules": [
           {
-            "foldername": "LICENSE_rhino",
-            "fingerprint": 2980605036,
+            "foldername": "rhino-common.mixins.json",
+            "fingerprint": 3620685965,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "fabric.mod.json",
-            "fingerprint": 1165612842,
+            "foldername": "rhino-common-refmap.json",
+            "fingerprint": 1493072104,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -3181,26 +3188,33 @@
             "invalidFingerprint": false
           },
           {
-            "foldername": "modmaven.json",
-            "fingerprint": 758145231,
+            "foldername": "rhino.mixins.json",
+            "fingerprint": 227373560,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "dev",
-            "fingerprint": 471909086,
+            "fingerprint": 2101829644,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "META-INF",
-            "fingerprint": 1309597065,
+            "fingerprint": 2607325881,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "architectury_inject_Rhino_common_e846e2bbdc6847d6a948aae7088e2690",
+            "fingerprint": 3607383812,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2782461907,
+        "packageFingerprint": 3408490460,
         "gameVersion": [
+          "1.17.1",
           "1.16.3",
           "1.16.1",
           "1.14.4",
@@ -3220,12 +3234,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "rhino-1605.1.1-build.21.jar"
+        "FileNameOnDisk": "rhino-forge-1605.1.4-build.59.jar"
       },
       "dateInstalled": "2021-05-05T20:20:24.2668773Z",
-      "dateUpdated": "2021-06-29T08:36:40.9590572Z",
-      "dateLastUpdateAttempted": "2021-06-29T08:36:40.9590572Z",
-      "status": 5,
+      "dateUpdated": "2021-09-22T17:33:39.64215Z",
+      "dateLastUpdateAttempted": "2021-09-22T17:33:39.64215Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3325,14 +3339,14 @@
       "addonID": 496030,
       "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
       "installedFile": {
-        "id": 3421782,
-        "displayName": "EnigmaticGraves-1.6.1.jar",
-        "fileName": "EnigmaticGraves-1.6.1.jar",
-        "fileDate": "2021-08-10T23:26:20.6Z",
-        "fileLength": 72186,
+        "id": 3451336,
+        "displayName": "EnigmaticGraves-1.6.2.jar",
+        "fileName": "EnigmaticGraves-1.6.2.jar",
+        "fileDate": "2021-09-05T18:29:46.57Z",
+        "fileLength": 72398,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3421/782/EnigmaticGraves-1.6.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3451/336/EnigmaticGraves-1.6.2.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -3340,25 +3354,25 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1313358832,
+            "fingerprint": 3805657105,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "dev",
-            "fingerprint": 3883673271,
+            "fingerprint": 1714614039,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": ".cache",
-            "fingerprint": 3652679426,
+            "fingerprint": 3920192458,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 2449605266,
+            "fingerprint": 1514560904,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -3375,7 +3389,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2766946823,
+        "packageFingerprint": 1035292235,
         "gameVersion": [
           "1.16.5"
         ],
@@ -3388,11 +3402,11 @@
         "gameVersionDateReleased": "2021-01-15T14:14:48.91Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "EnigmaticGraves-1.6.1.jar"
+        "FileNameOnDisk": "EnigmaticGraves-1.6.2.jar"
       },
       "dateInstalled": "2021-07-05T17:14:32.8920253Z",
-      "dateUpdated": "2021-08-14T19:24:29.2760281Z",
-      "dateLastUpdateAttempted": "2021-08-14T19:24:29.2760281Z",
+      "dateUpdated": "2021-09-22T17:33:45.3911559Z",
+      "dateLastUpdateAttempted": "2021-09-22T17:33:45.3911559Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -3694,7 +3708,7 @@
       "dateInstalled": "2021-05-02T19:50:05.5927061Z",
       "dateUpdated": "2021-08-14T19:24:35.5769412Z",
       "dateLastUpdateAttempted": "2021-08-14T19:24:35.5769412Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3794,6 +3808,169 @@
       "installedTargets": null
     },
     {
+      "addonID": 529754,
+      "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
+      "installedFile": {
+        "id": 3466312,
+        "displayName": "RoadRunner-mc1.16.5-1.1.1.jar",
+        "fileName": "RoadRunner-mc1.16.5-1.1.1.jar",
+        "fileDate": "2021-09-19T21:44:18.067Z",
+        "fileLength": 387474,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3466/312/RoadRunner-mc1.16.5-1.1.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "LICENSE.txt",
+            "fingerprint": 1136524626,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1265881845,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "roadrunner.mixins.json",
+            "fingerprint": 1649045226,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "roadrunner.overrides.properties",
+            "fingerprint": 3942409938,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2738395886,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "me",
+            "fingerprint": 3847400500,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "RoadRunner-mc1.16.5-refmap.json",
+            "fingerprint": 3955167373,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3554115702,
+        "gameVersion": [
+          "1.16.5",
+          "Forge",
+          "1.16.4"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "RoadRunner-mc1.16.5-1.1.1.jar"
+      },
+      "dateInstalled": "2021-09-22T17:33:50.3252437Z",
+      "dateUpdated": "2021-09-22T17:33:50.339247Z",
+      "dateLastUpdateAttempted": "2021-09-22T17:33:50.339247Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 238222,
+      "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
+      "installedFile": {
+        "id": 3438494,
+        "displayName": "jei-1.16.5-7.7.1.121.jar",
+        "fileName": "jei-1.16.5-7.7.1.121.jar",
+        "fileDate": "2021-08-25T06:28:30.36Z",
+        "fileLength": 814217,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3438/494/jei-1.16.5-7.7.1.121.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2317160737,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mezz",
+            "fingerprint": 3778864182,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1645019714,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2041060550,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3158079338,
+        "gameVersion": [
+          "1.16.5",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "jei-1.16.5-7.7.1.121.jar"
+      },
+      "dateInstalled": "2021-05-10T19:24:02.1469865Z",
+      "dateUpdated": "2021-09-22T17:33:41.2141503Z",
+      "dateLastUpdateAttempted": "2021-09-22T17:33:41.2141503Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 256717,
       "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
       "installedFile": {
@@ -3860,104 +4037,20 @@
       "installedTargets": null
     },
     {
-      "addonID": 238222,
-      "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
-      "installedFile": {
-        "id": 3414898,
-        "displayName": "jei-1.16.5-7.7.1.118.jar",
-        "fileName": "jei-1.16.5-7.7.1.118.jar",
-        "fileDate": "2021-08-06T05:13:33.447Z",
-        "fileLength": 814355,
-        "releaseType": 2,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3414/898/jei-1.16.5-7.7.1.118.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1744610965,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "mezz",
-            "fingerprint": 940820400,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 1645019714,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 2041060550,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 2938617462,
-        "gameVersion": [
-          "1.16.5",
-          "Forge"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "jei-1.16.5-7.7.1.118.jar"
-      },
-      "dateInstalled": "2021-05-10T19:24:02.1469865Z",
-      "dateUpdated": "2021-08-14T19:24:40.2170691Z",
-      "dateLastUpdateAttempted": "2021-08-14T19:24:40.2170691Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 238086,
       "gameInstanceID": "9838a4ee-d5a3-4020-a61f-55d4f6ec0f52",
       "installedFile": {
-        "id": 3425028,
-        "displayName": "kubejs-forge-1605.3.15-build.80.jar",
-        "fileName": "kubejs-forge-1605.3.15-build.80.jar",
-        "fileDate": "2021-08-14T09:49:08.873Z",
-        "fileLength": 794057,
+        "id": 3466820,
+        "displayName": "kubejs-forge-1605.3.17-build.121.jar",
+        "fileName": "kubejs-forge-1605.3.17-build.121.jar",
+        "fileDate": "2021-09-20T13:21:10.37Z",
+        "fileLength": 783998,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3425/28/kubejs-forge-1605.3.15-build.80.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3466/820/kubejs-forge-1605.3.17-build.121.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
-          {
-            "id": 0,
-            "addonId": 238222,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 419699,
-            "type": 3,
-            "fileId": 0
-          },
           {
             "id": 0,
             "addonId": 416294,
@@ -3966,8 +4059,20 @@
           },
           {
             "id": 0,
+            "addonId": 238222,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
             "addonId": 268655,
             "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 419699,
+            "type": 3,
             "fileId": 0
           }
         ],
@@ -3981,7 +4086,13 @@
           },
           {
             "foldername": "kubejs-common.mixins.json",
-            "fingerprint": 389559142,
+            "fingerprint": 676477993,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3762797279,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -3992,14 +4103,8 @@
             "invalidFingerprint": false
           },
           {
-            "foldername": "assets",
-            "fingerprint": 815703019,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
             "foldername": "kubejs-common-refmap.json",
-            "fingerprint": 2435558344,
+            "fingerprint": 296059164,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -4010,32 +4115,32 @@
             "invalidFingerprint": false
           },
           {
-            "foldername": "kubejs.mixins.json",
-            "fingerprint": 3372627309,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
             "foldername": "pack.mcmeta",
             "fingerprint": 1290654324,
             "type": 0,
             "invalidFingerprint": false
           },
           {
+            "foldername": "kubejs.mixins.json",
+            "fingerprint": 3372627309,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
             "foldername": "META-INF",
-            "fingerprint": 3732941698,
+            "fingerprint": 177060540,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "dev",
-            "fingerprint": 2606074590,
+            "fingerprint": 1994652299,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "architectury_inject_KubeJS1165_common_3eb2a37bb31f45b7bc2c04d37f525926",
-            "fingerprint": 3608655912,
+            "foldername": "architectury_inject_KubeJS1165_common_025eca000ae84214b9225cddddc36853",
+            "fingerprint": 3995545050,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -4046,7 +4151,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1340833152,
+        "packageFingerprint": 2065255818,
         "gameVersion": [
           "1.16.5",
           "Forge",
@@ -4061,11 +4166,11 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "kubejs-forge-1605.3.15-build.80.jar"
+        "FileNameOnDisk": "kubejs-forge-1605.3.17-build.121.jar"
       },
       "dateInstalled": "2021-05-14T18:04:35.6449517Z",
-      "dateUpdated": "2021-08-14T19:24:39.8080689Z",
-      "dateLastUpdateAttempted": "2021-08-14T19:24:39.8080689Z",
+      "dateUpdated": "2021-09-22T17:33:40.5331527Z",
+      "dateLastUpdateAttempted": "2021-09-22T17:33:40.5331527Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,

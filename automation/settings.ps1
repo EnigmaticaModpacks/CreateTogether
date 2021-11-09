@@ -29,11 +29,11 @@ $MODPACK_NAME = "CreateTogether"
 $CLIENT_NAME = "CreateTogether"
 
 # Version Of The Modpack
-$MODPACK_VERSION = "1.1.6"
+$MODPACK_VERSION = "1.1.7"
 
 # Last Version Of The Modpack
 # Needed For Changelog Parsing
-$LAST_MODPACK_VERSION = "1.1.5"
+$LAST_MODPACK_VERSION = "1.1.6"
 
 # =====================================================================//
 #  CHANGELOG SETTINGS
@@ -59,7 +59,7 @@ $CLIENT_CHANGELOG = "The Changelog is currently being written, it should be done
 $GAME_VERSIONS = @(8203)
 
 # Can be "alpha", "beta" or "release"
-$CLIENT_RELEASE_TYPE = "release"
+$CLIENT_RELEASE_TYPE = "beta"
 
 #=====================================================================//
 #  DEPENDENCIES URL
@@ -96,9 +96,11 @@ $CONFIGS_TO_REMOVE_FROM_CLIENT_FILES = @(
 	"MouseTweaks.cfg",
 	"sidebar_buttons.json",
 	"entity_culling-client.toml",
-	"storagedrawers-client.toml")
+	"storagedrawers-client.toml",
+	"roadrunner/client.toml",
+	"roadrunner/common.toml")
 
-$FOLDERS_TO_REMOVE_FROM_CLIENT_FILES = @("local/ftbutilities", "local/ftbchunks/data", "local/ftbultimine")
+$FOLDERS_TO_REMOVE_FROM_CLIENT_FILES = @("local/ftbutilities", "local/ftbchunks/data", "local/ftbultimine", "local/ftbultimine-client.snbt", "defaultconfigs/ftbultimine")
 
 #=====================================================================//
 #  SERVER FILE SETTINGS

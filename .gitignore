@@ -176,3 +176,4 @@ config/storagedrawers-client.toml
 config/roadrunner/common.toml
 config/roadrunner/client.toml
 defaultconfigs/ftbultimine/ftbultimine.snbt
+local/ftbultimine-client.snbt

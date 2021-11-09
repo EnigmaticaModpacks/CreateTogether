@@ -100,7 +100,7 @@ $CONFIGS_TO_REMOVE_FROM_CLIENT_FILES = @(
 	"roadrunner/client.toml",
 	"roadrunner/common.toml")
 
-$FOLDERS_TO_REMOVE_FROM_CLIENT_FILES = @("local/ftbutilities", "local/ftbchunks/data", "local/ftbultimine")
+$FOLDERS_TO_REMOVE_FROM_CLIENT_FILES = @("local/ftbutilities", "local/ftbchunks/data", "local/ftbultimine", "defaultconfigs/ftbultimine/ftbultimine.snbt")
 
 #=====================================================================//
 #  SERVER FILE SETTINGS

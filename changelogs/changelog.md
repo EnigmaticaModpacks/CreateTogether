@@ -1,3 +1,11 @@
+# Create Together v1.1.8
+
+_Using Forge-1.16.5-36.2.22_ | _[Mod Updates](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/changelog_mods_1.1.8.md)_ | _[Modlist](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/modlist_1.1.8.md)_
+
+**Just Forge and Mod Updates**
+
+---
+
 # Create Together v1.1.7
 
 _Using Forge-1.16.5-36.2.4_ | _[Mod Updates](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/changelog_mods_1.1.7.md)_ | _[Modlist](https://github.com/NillerMedDild/CreateTogether/blob/master/changelogs/modlist_1.1.7.md)_

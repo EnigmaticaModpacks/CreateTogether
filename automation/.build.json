@@ -2,6 +2,6 @@
     "packAuthor": "NillerMedDild",
     "minecraftVersion": "1.16.5",
     "modLoader": "forge",
-    "modLoaderVersion": "36.2.4",
+    "modLoaderVersion": "36.2.22",
     "includes": ["config", "defaultconfigs", "kubejs", "local", "packmenu"]
 }

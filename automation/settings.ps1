@@ -29,11 +29,11 @@ $MODPACK_NAME = "CreateTogether"
 $CLIENT_NAME = "CreateTogether"
 
 # Version Of The Modpack
-$MODPACK_VERSION = "1.1.8"
+$MODPACK_VERSION = "1.1.9"
 
 # Last Version Of The Modpack
 # Needed For Changelog Parsing
-$LAST_MODPACK_VERSION = "1.1.7"
+$LAST_MODPACK_VERSION = "1.1.8"
 
 # =====================================================================//
 #  CHANGELOG SETTINGS
@@ -59,7 +59,7 @@ $CLIENT_CHANGELOG = "The Changelog is currently being written, it should be done
 $GAME_VERSIONS = @(8203)
 
 # Can be "alpha", "beta" or "release"
-$CLIENT_RELEASE_TYPE = "release"
+$CLIENT_RELEASE_TYPE = "beta"
 
 #=====================================================================//
 #  DEPENDENCIES URL

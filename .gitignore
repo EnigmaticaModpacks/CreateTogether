@@ -177,3 +177,4 @@ config/roadrunner/common.toml
 config/roadrunner/client.toml
 defaultconfigs/ftbultimine/ftbultimine.snbt
 local/ftbultimine-client.snbt
+pregen/supporters.json

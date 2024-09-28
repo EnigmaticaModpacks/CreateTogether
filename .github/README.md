@@ -98,4 +98,4 @@ Re-run the script `update-server` whenever you want to update to a new modpack v
 
 -   [CurseForge](https://www.curseforge.com/minecraft/modpacks/createtogether)
 
--   [Discord](https://discord.gg/HnWNd7X)
+-   [Discord](https://discord.gg/enigmatica)
